@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>verify-equivalence</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../../SimToHanData.cs" Link="SimToHanData.cs" />
+    <Compile Include="../../HanConverterData.cs" Link="HanConverterData.cs" />
+    <Compile Include="../../HanConverter.cs" Link="HanConverter.cs" />
+    <Compile Include="../../TextUtil.cs" Link="TextUtil.cs" />
+  </ItemGroup>
+</Project>

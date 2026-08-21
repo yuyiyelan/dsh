@@ -1,0 +1,1166 @@
+{
+ "out": [],
+ "noUni": [
+  {
+   "fulltext": "夏蕾努",
+   "name": "夏蕾努",
+   "base": "夏蕾努",
+   "star": "2",
+   "attr": "光",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "尤利斯",
+   "name": "尤利斯",
+   "base": "尤利斯",
+   "star": "3",
+   "attr": "光",
+   "race": "神族",
+   "type": "敏捷",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "尤莉",
+   "name": "尤莉",
+   "base": "尤莉",
+   "star": "2",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "希露迪欧涅",
+   "name": "希露迪欧涅",
+   "base": "希露迪欧涅",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "库洛特",
+   "name": "库洛特",
+   "base": "库洛特",
+   "star": "1",
+   "attr": "暗",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "梅尔艾尔",
+   "name": "梅尔艾尔",
+   "base": "梅尔艾尔",
+   "star": "3",
+   "attr": "光",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "永远老师",
+   "name": "永远老师",
+   "base": "永远老师",
+   "star": "2",
+   "attr": "水",
+   "race": "人族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "玛托依",
+   "name": "玛托依",
+   "base": "玛托依",
+   "star": "1",
+   "attr": "雷",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "莎朗",
+   "name": "莎朗",
+   "base": "莎朗",
+   "star": "2",
+   "attr": "光",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "莎隆",
+   "name": "莎隆",
+   "base": "莎隆",
+   "star": "2",
+   "attr": "水",
+   "race": "神族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "菲妮艾尔",
+   "name": "菲妮艾尔",
+   "base": "菲妮艾尔",
+   "star": "2",
+   "attr": "炎",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "赛娜丽",
+   "name": "赛娜丽",
+   "base": "赛娜丽",
+   "star": "1",
+   "attr": "炎",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［\"境界\"守护者］玛格妲蕾娜",
+   "name": "玛格妲蕾娜",
+   "base": "玛格妲蕾娜",
+   "star": "3",
+   "attr": "光",
+   "race": "神族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［Magica2026］伊吕波",
+   "name": "伊吕波",
+   "base": "伊吕波",
+   "star": "3",
+   "attr": "炎",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［一心一意的偶像］梅尔艾尔",
+   "name": "梅尔艾尔",
+   "base": "梅尔艾尔",
+   "star": "3",
+   "attr": "炎",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［万成的幼天使］塞西亚",
+   "name": "塞西亚",
+   "base": "塞西亚",
+   "star": "3",
+   "attr": "光",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［二代目・三太九郎］塞西亚",
+   "name": "塞西亚",
+   "base": "塞西亚",
+   "star": "2",
+   "attr": "光",
+   "race": "神族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［二刀全能的巫女］玛托依",
+   "name": "玛托依",
+   "base": "玛托依",
+   "star": "2",
+   "attr": "水",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［健全的海上休闲］伊克西里昂",
+   "name": "伊克西里昂",
+   "base": "伊克西里昂",
+   "star": "3",
+   "attr": "雷",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［傲慢的演出家］罗克姗娜",
+   "name": "罗克姗娜",
+   "base": "罗克姗娜",
+   "star": "3",
+   "attr": "水",
+   "race": "魔族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［光与再生的魔女］特里菲娜",
+   "name": "特里菲娜",
+   "base": "特里菲娜",
+   "star": "3",
+   "attr": "光",
+   "race": "魔族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［光速女仆之星］兰美",
+   "name": "兰美",
+   "base": "兰美",
+   "star": "3",
+   "attr": "光",
+   "race": "魔族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［兔兔圣诞老人］兰美",
+   "name": "兰美",
+   "base": "兰美",
+   "star": "3",
+   "attr": "雷",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［冷酷司令官］塞德娜",
+   "name": "塞德娜",
+   "base": "塞德娜",
+   "star": "3",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［创世的星辰女神］露妮娅",
+   "name": "露妮娅",
+   "base": "露妮娅",
+   "star": "3",
+   "attr": "光",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［剑指最强的泳装剑士］英格丽特",
+   "name": "英格丽特",
+   "base": "英格丽特",
+   "star": "3",
+   "attr": "暗",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［勇恋迈进］梅尔艾尔（幼）",
+   "name": "梅尔艾尔（幼）",
+   "base": "梅尔艾尔",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［千变超化的战姬］希露迪欧涅《螺旋》",
+   "name": "希露迪欧涅《螺旋》",
+   "base": "希露迪欧涅",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［卖火柴的天使］菲妮艾尔",
+   "name": "菲妮艾尔",
+   "base": "菲妮艾尔",
+   "star": "3",
+   "attr": "光",
+   "race": "神族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［南瓜公主］莎朗",
+   "name": "莎朗",
+   "base": "莎朗",
+   "star": "3",
+   "attr": "雷",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［卡牌王子］尤利斯",
+   "name": "尤利斯",
+   "base": "尤利斯",
+   "star": "2",
+   "attr": "雷",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［可爱风格］雷米卡",
+   "name": "雷米卡",
+   "base": "雷米卡",
+   "star": "3",
+   "attr": "炎",
+   "race": "人族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［司书的暑假］威斯缇利娅",
+   "name": "威斯缇利娅",
+   "base": "威斯缇利娅",
+   "star": "3",
+   "attr": "水",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［吧唧吧唧妹妹］莉娜",
+   "name": "莉娜",
+   "base": "莉娜",
+   "star": "3",
+   "attr": "光",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［境界的幼小化身］玛格妲蕾娜（幼）",
+   "name": "玛格妲蕾娜（幼）",
+   "base": "玛格妲蕾娜",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［夏亦伴君］玛托依",
+   "name": "玛托依",
+   "base": "玛托依",
+   "star": "2",
+   "attr": "光",
+   "race": "人族",
+   "type": "治疗",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［夏日的白色闪光］艾尔狄丽洁",
+   "name": "艾尔狄丽洁",
+   "base": "艾尔狄丽洁",
+   "star": "3",
+   "attr": "雷",
+   "race": "人族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［大师级女仆］琪丽卡",
+   "name": "琪丽卡",
+   "base": "琪丽卡",
+   "star": "3",
+   "attr": "雷",
+   "race": "人族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［大欲的女帝］煌嶺",
+   "name": "煌嶺",
+   "base": "煌嶺",
+   "star": "3",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［女巫复制体］小春子《光诞》",
+   "name": "小春子《光诞》",
+   "base": "小春子",
+   "star": "3",
+   "attr": "光",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［好人吸血鬼］贝阿朵莉丝",
+   "name": "贝阿朵莉丝",
+   "base": "贝阿朵莉丝",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［小小毒师］莉可林菲娅",
+   "name": "莉可林菲娅",
+   "base": "莉可林菲娅",
+   "star": "3",
+   "attr": "暗",
+   "race": "神族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［小小的真心］雷米卡（幼）",
+   "name": "雷米卡（幼）",
+   "base": "雷米卡",
+   "star": "2",
+   "attr": "水",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［幸运的魔法少女］幸",
+   "name": "幸",
+   "base": "幸",
+   "star": "3",
+   "attr": "水",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［度假村制造者］莉普尔",
+   "name": "莉普尔",
+   "base": "莉普尔",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "防御",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［异乡的占星术师］特莉夏",
+   "name": "特莉夏",
+   "base": "特莉夏",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［思欲情迷］伊克希里昂",
+   "name": "伊克希里昂",
+   "base": "伊克希里昂",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "敏捷",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［恶作剧风的魔女］艾琳",
+   "name": "艾琳",
+   "base": "艾琳",
+   "star": "3",
+   "attr": "雷",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［恶即斩强化者］赛娜丽《女帝》",
+   "name": "赛娜丽《女帝》",
+   "base": "赛娜丽",
+   "star": "3",
+   "attr": "暗",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［恶姬兔视眈眈］赛娜丽",
+   "name": "赛娜丽",
+   "base": "赛娜丽",
+   "star": "2",
+   "attr": "炎",
+   "race": "人族",
+   "type": "治疗",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［战岚的轰天使］希尔薇",
+   "name": "希尔薇",
+   "base": "希尔薇",
+   "star": "3",
+   "attr": "雷",
+   "race": "神族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［支配黑暗的魔将］威斯缇利娅《怠惰》",
+   "name": "威斯缇利娅《怠惰》",
+   "base": "威斯缇利娅",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［放浪野丫头］帕鲁米埃",
+   "name": "帕鲁米埃",
+   "base": "帕鲁米埃",
+   "star": "3",
+   "attr": "水",
+   "race": "人族",
+   "type": "敏捷",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［敲级可爱］玛格妲蕾娜（幼）",
+   "name": "玛格妲蕾娜（幼）",
+   "base": "玛格妲蕾娜",
+   "star": "2",
+   "attr": "光",
+   "race": "神族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［新婚少女］琪丽卡",
+   "name": "琪丽卡",
+   "base": "琪丽卡",
+   "star": "2",
+   "attr": "光",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［新春加速器］索菲娅",
+   "name": "索菲娅",
+   "base": "索菲娅",
+   "star": "2",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［无秽祈愿］艾斯提尔",
+   "name": "艾斯提尔",
+   "base": "艾斯提尔",
+   "star": "3",
+   "attr": "水",
+   "race": "人族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［星选的大怪盗］米涅可",
+   "name": "米涅可",
+   "base": "米涅可",
+   "star": "3",
+   "attr": "光",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［星选的驱魔师］菲莉希",
+   "name": "菲莉希",
+   "base": "菲莉希",
+   "star": "3",
+   "attr": "雷",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［智谋的漆黑微笑］朱丽叶特",
+   "name": "朱丽叶特",
+   "base": "朱丽叶特",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "治疗",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［暮色初恋］永远老师",
+   "name": "永远老师",
+   "base": "永远老师",
+   "star": "3",
+   "attr": "水",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［最后的坍缩星］蕾拉",
+   "name": "蕾拉",
+   "base": "蕾拉",
+   "star": "3",
+   "attr": "暗",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［最幸的真魔法少女］幸《命运》",
+   "name": "幸《命运》",
+   "base": "幸",
+   "star": "3",
+   "attr": "光",
+   "race": "魔族",
+   "type": "敏捷",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［正义骇客］小春子",
+   "name": "小春子",
+   "base": "小春子",
+   "star": "2",
+   "attr": "光",
+   "race": "人族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［比翼的不死鸟］菲妮艾尔《凤凰》",
+   "name": "菲妮艾尔《凤凰》",
+   "base": "菲妮艾尔",
+   "star": "3",
+   "attr": "炎",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［水星的花嫁］永远老师",
+   "name": "永远老师",
+   "base": "永远老师",
+   "star": "2",
+   "attr": "炎",
+   "race": "人族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［江户的小巫女］希祐",
+   "name": "希祐",
+   "base": "希祐",
+   "star": "3",
+   "attr": "光",
+   "race": "人族",
+   "type": "治疗",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［泳装伙伴］特莉夏",
+   "name": "特莉夏",
+   "base": "特莉夏",
+   "star": "3",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［海滩巫师］小春子",
+   "name": "小春子",
+   "base": "小春子",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "治疗",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［海边猎人］琪莎娜",
+   "name": "琪莎娜",
+   "base": "琪莎娜",
+   "star": "3",
+   "attr": "光",
+   "race": "魔族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［渴望的武斗天使］英格丽特",
+   "name": "英格丽特",
+   "base": "英格丽特",
+   "star": "3",
+   "attr": "暗",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［漂泊的泳装剑士］拉缇耶",
+   "name": "拉缇耶",
+   "base": "拉缇耶",
+   "star": "3",
+   "attr": "暗",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［漂泊的破天荒］拉缇耶",
+   "name": "拉缇耶",
+   "base": "拉缇耶",
+   "star": "3",
+   "attr": "雷",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［漆夜之魔女］伊妮什",
+   "name": "伊妮什",
+   "base": "伊妮什",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［漆黑之枪的大小姐］艾尔狄丽洁",
+   "name": "艾尔狄丽洁",
+   "base": "艾尔狄丽洁",
+   "star": "3",
+   "attr": "暗",
+   "race": "人族",
+   "type": "敏捷",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［潮音的坍缩星］蕾拉",
+   "name": "蕾拉",
+   "base": "蕾拉",
+   "star": "3",
+   "attr": "光",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［灵魂公主］杰奎琳",
+   "name": "杰奎琳",
+   "base": "杰奎琳",
+   "star": "3",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "敏捷",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［炎天下的凉魔女］塞德娜",
+   "name": "塞德娜",
+   "base": "塞德娜",
+   "star": "2",
+   "attr": "光",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［热带妈妈］莉诺",
+   "name": "莉诺",
+   "base": "莉诺",
+   "star": "2",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［爆碎★破坏天使］梅忒欧拉",
+   "name": "梅忒欧拉",
+   "base": "梅忒欧拉",
+   "star": "3",
+   "attr": "暗",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［爱的传道者］乌尔斯拉",
+   "name": "乌尔斯拉",
+   "base": "乌尔斯拉",
+   "star": "2",
+   "attr": "雷",
+   "race": "神族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［狂狮］琪莎娜",
+   "name": "琪莎娜",
+   "base": "琪莎娜",
+   "star": "3",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［甜爱香氛］夏蕾努",
+   "name": "夏蕾努",
+   "base": "夏蕾努",
+   "star": "3",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［甜蜜夏日］莎朗",
+   "name": "莎朗",
+   "base": "莎朗",
+   "star": "3",
+   "attr": "光",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［甜蜜纯白］莎隆",
+   "name": "莎隆",
+   "base": "莎隆",
+   "star": "3",
+   "attr": "雷",
+   "race": "神族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［电击热唱的歌姬］雷米卡",
+   "name": "雷米卡",
+   "base": "雷米卡",
+   "star": "3",
+   "attr": "雷",
+   "race": "人族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［疯狂魔女］塞西莉亚",
+   "name": "塞西莉亚",
+   "base": "塞西莉亚",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "敏捷",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［白兔的纯情］兰美",
+   "name": "兰美",
+   "base": "兰美",
+   "star": "3",
+   "attr": "水",
+   "race": "魔族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［破碎姐妹］莉娜",
+   "name": "莉娜",
+   "base": "莉娜",
+   "star": "3",
+   "attr": "炎",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［碧水的缪斯］萝萝特",
+   "name": "萝萝特",
+   "base": "萝萝特",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［礼物就是我］莉普尔",
+   "name": "莉普尔",
+   "base": "莉普尔",
+   "star": "3",
+   "attr": "光",
+   "race": "神族",
+   "type": "防御",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［空间魔女］莉诺",
+   "name": "莉诺",
+   "base": "莉诺",
+   "star": "3",
+   "attr": "水",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［笑面的合理主义者］缪",
+   "name": "缪",
+   "base": "缪",
+   "star": "2",
+   "attr": "光",
+   "race": "人族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［精力旺盛需关照］静流",
+   "name": "静流",
+   "base": "静流",
+   "star": "3",
+   "attr": "雷",
+   "race": "魔族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［精炼的机甲天使］施蒂勒",
+   "name": "施蒂勒",
+   "base": "施蒂勒",
+   "star": "2",
+   "attr": "雷",
+   "race": "神族",
+   "type": "敏捷",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［紫炎的咒剑士］蕾蒂西亚",
+   "name": "蕾蒂西亚",
+   "base": "蕾蒂西亚",
+   "star": "3",
+   "attr": "炎",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［纯白修女］莎隆",
+   "name": "莎隆",
+   "base": "莎隆",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［织命灼炎］伊克希里昂",
+   "name": "伊克希里昂",
+   "base": "伊克希里昂",
+   "star": "3",
+   "attr": "炎",
+   "race": "神族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［绝对普遍的守护者］玛托依《缠雷》",
+   "name": "玛托依《缠雷》",
+   "base": "玛托依",
+   "star": "3",
+   "attr": "雷",
+   "race": "人族",
+   "type": "防御",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［美之亵渎者］巴蕾莉",
+   "name": "巴蕾莉",
+   "base": "巴蕾莉",
+   "star": "3",
+   "attr": "光",
+   "race": "人族",
+   "type": "治疗",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［被黑暗诅咒之人］威斯缇利娅",
+   "name": "威斯缇利娅",
+   "base": "威斯缇利娅",
+   "star": "3",
+   "attr": "暗",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［誓约者新星］梅尔艾尔⟪极光⟫",
+   "name": "梅尔艾尔⟪极光⟫",
+   "base": "梅尔艾尔",
+   "star": "3",
+   "attr": "光",
+   "race": "神族,魔族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［计算过的旋律］艾丝梅拉妲",
+   "name": "艾丝梅拉妲",
+   "base": "艾丝梅拉妲",
+   "star": "3",
+   "attr": "水",
+   "race": "魔族",
+   "type": "治疗",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［试炼的守护天使］帕提尔",
+   "name": "帕提尔",
+   "base": "帕提尔",
+   "star": "3",
+   "attr": "暗",
+   "race": "神族",
+   "type": "敏捷",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［请抽签吧］特莉夏",
+   "name": "特莉夏",
+   "base": "特莉夏",
+   "star": "3",
+   "attr": "炎",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［豪快捕鱼人］希尔薇",
+   "name": "希尔薇",
+   "base": "希尔薇",
+   "star": "3",
+   "attr": "暗",
+   "race": "神族",
+   "type": "敏捷",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［赌博螺旋］希露迪欧涅",
+   "name": "希露迪欧涅",
+   "base": "希露迪欧涅",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "防御",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［道士之友］特莉夏",
+   "name": "特莉夏",
+   "base": "特莉夏",
+   "star": "3",
+   "attr": "光",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［阳光吸血鬼］贝阿朵莉丝",
+   "name": "贝阿朵莉丝",
+   "base": "贝阿朵莉丝",
+   "star": "3",
+   "attr": "雷",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［静谧的祈祷者］格洛丽亚",
+   "name": "格洛丽亚",
+   "base": "格洛丽亚",
+   "star": "2",
+   "attr": "光",
+   "race": "神族",
+   "type": "辅助",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［骑士皇女］莉亚",
+   "name": "莉亚",
+   "base": "莉亚",
+   "star": "3",
+   "attr": "光",
+   "race": "人族",
+   "type": "辅助",
+   "weapon": "斩击"
+  },
+  {
+   "fulltext": "［骰子射手］尤莉",
+   "name": "尤莉",
+   "base": "尤莉",
+   "star": "3",
+   "attr": "雷",
+   "race": "魔族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［鲨鱼鳍驭手］帕提尔",
+   "name": "帕提尔",
+   "base": "帕提尔",
+   "star": "3",
+   "attr": "水",
+   "race": "神族",
+   "type": "辅助",
+   "weapon": "打击"
+  },
+  {
+   "fulltext": "［黄昏的超新星］永远老师《黎明》",
+   "name": "永远老师《黎明》",
+   "base": "永远老师",
+   "star": "3",
+   "attr": "暗",
+   "race": "人族",
+   "type": "攻击",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［黑暗秘宝］幸",
+   "name": "幸",
+   "base": "幸",
+   "star": "3",
+   "attr": "雷",
+   "race": "魔族",
+   "type": "敏捷",
+   "weapon": "魔法"
+  },
+  {
+   "fulltext": "［齐天大圣］空贤",
+   "name": "空贤",
+   "base": "空贤",
+   "star": "3",
+   "attr": "雷",
+   "race": "魔族",
+   "type": "攻击",
+   "weapon": "打击"
+  }
+ ],
+ "okCount": 159
+}

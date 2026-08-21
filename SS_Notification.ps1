@@ -4,8 +4,8 @@
     <toast activationType="protocol" launch="file:///'+$location+'" >
       <visual>
         <binding template="ToastGeneric">
-          <text>Click to view</text>
-          <text>Screenshot saved at '+$location+'</text>
+          <text>点击查看</text>
+          <text>截图已保存至 '+$location+'</text>
         </binding>
       </visual>
     </toast>

@@ -1,0 +1,87 @@
+======================================================================
+  TSKHook 开发工具包 使用教程
+======================================================================
+适用:想自己重新生成词典/字形表、跑测试、二次开发的用户。
+环境:Windows + Node.js 18+(工具);.NET SDK 8(编译插件)。
+注意:工具脚本内的 E:/dsh/TSKHook 等绝对路径是本机开发配置,克隆到别的
+机器后需按需替换(大多数工具头部有路径常量,统一改即可)。
+
+======================================================================
+一、目录与文件
+======================================================================
+tools/
+  dict-editor.html          词典编辑器(单文件,浏览器直接打开,无需 Node;位于开发工具包根目录)
+  make-release-package.mjs  一键打包脚本(生成完整发布包)
+  gen-*.mjs                 数据生成器(词典/字形表/统一名/UI 词典)
+  build-offline-dict.mjs    下载官方平台全量章节→转简→离线词典
+  merge-*.mjs / match-*.mjs 角色名合并流水线
+  check-*.mjs / verify-*.mjs / strict-verify*.mjs / test-*.mjs / unit-test*.mjs
+                            校验与测试套件
+  verify/ verify-dll/ verify-equivalence/   C# 验证工程(dotnet run)
+  opencc-data/              OpenCC 繁→简数据(Apache-2.0)
+  xlsx-extract/             从 kurusuta.xlsx 提取的角色名对照表(JSON)
+
+  _archive/                 历史调试/审计脚本与原始数据(本地留存,不随包分发)
+
+注意:
+  - 密钥文件 ds_key.txt / nt_key.txt 已移入 _archive,仓库与工具包都不含密钥;
+    需要 API 的工具会提示缺少密钥,按需自建即可。
+  - 原始表格 kurusuta.xlsx(223MB)与解包 xlsx-full/ 不随包分发,仅本机留存。
+
+======================================================================
+二、常用任务
+======================================================================
+1. 改译文(最常用,无需任何环境)
+   双击 dict-editor.html(Chrome/Edge)→「打开词典目录」→ 选
+   BepInEx\plugins\translation_zh_Hans → 三列编辑/一键全替换 → 保存
+   → 游戏内按 F10。
+
+2. 重新编译插件
+   # 修改 TSKHook.csproj 的 <GamePath> 为你的游戏目录后:
+   dotnet build TSKHook.csproj -c Release
+   # 产物:bin/Release/TSKHook.dll
+
+3. 重新生成字形映射表(OpenCC → SimToHanData.cs / HanConverterData.cs)
+   node tools/gen-sim-to-han.mjs       # 生成 SimToHanData.cs(简→日/繁字形)
+   node tools/gen-han-converter.mjs    # 生成 HanConverterData.cs(繁→简)
+   生成后必须跑等价性对拍:
+   dotnet run --project tools/verify-equivalence -c Release   # 新旧算法逐字一致
+   dotnet run --project tools/verify -c Release               # 转换器行为测试
+
+4. 重新生成统一角色名(数据源:本机 kurusuta.xlsx + bilibili wiki)
+   node tools/gen-unified-names.mjs       # → UnifiedNames.cs
+   node tools/gen-unified-names-data.mjs  # → UnifiedNamesData.cs(别名纠正表)
+
+5. 重新生成 UI 词典(UiDict*.cs)
+   node tools/gen-ui-dict.mjs
+   node tools/gen-ui-dict-ext.mjs / gen-ui-dict-meta.mjs / gen-ui-dict-task.mjs / gen-ui-dict-batch.mjs
+   node tools/gen-ui-equip.mjs
+
+6. 下载官方平台全量词典(生成离线包)
+   node tools/build-offline-dict.mjs
+
+7. 收集游戏内未翻译文本
+   游戏 config.json 中 diagnostics 设为 true 后重启游戏:
+   - 未翻译文本 → BepInEx\plugins\font\tsk_nohit.txt(可导入词典编辑器)
+   - 全量语言表文本 → font\tsk_parse_all.txt
+   - 元数据日文片段 → font\tsk_meta_new.txt
+
+======================================================================
+三、测试套件(修改代码后必跑)
+======================================================================
+  node tools/test-security.mjs          安全边界:出站白名单/无监听/密钥纪律/日志脱敏
+  node tools/test-autotranslate.mjs     词典优先、免重复翻译、省 token 加固
+  node tools/test-dict-editor.mjs       词典编辑器真实脚本功能测试
+  node tools/unit-test.mjs              词典完整性、姓名与权威表一致性
+  node tools/unit-test2.mjs             译文质量抽查、编译产物检查
+  dotnet run --project tools/verify -c Release              HanConverter 行为测试
+  dotnet run --project tools/verify-equivalence -c Release  新旧转换算法逐字对拍
+  dotnet run --project tools/verify-dll -c Release          发布 DLL 类型完整性
+
+======================================================================
+四、安全须知
+======================================================================
+  - 所有密钥只放在本机 config.json / ds_key.txt / nt_key.txt,严禁提交仓库;
+  - 网络行为见 SECURITY.md:仅访问词典源与用户配置的 API,不监听端口、不回传数据;
+  - 本项目基于 TSKModding/TSKHook(GPL-2.0),二次分发请保留 GPL-2.0 许可与上游署名。
+    https://github.com/TSKModding/TSKHook

@@ -1,0 +1,2291 @@
+[
+  {
+    "title": "可爱玩偶",
+    "name": "阿波罗",
+    "source": "json",
+    "jp": "アポロ",
+    "star": "★3"
+  },
+  {
+    "title": "流星骑士",
+    "name": "阿波罗",
+    "source": "json",
+    "jp": "アポロ",
+    "star": "★3"
+  },
+  {
+    "title": "海滨魔装",
+    "name": "阿波罗",
+    "source": "json",
+    "jp": "アボロ",
+    "star": "★3"
+  },
+  {
+    "title": "烈焰魔装",
+    "name": "阿波罗",
+    "source": "json",
+    "jp": "アポロ",
+    "star": "★3"
+  },
+  {
+    "title": "长大的英雄",
+    "name": "阿波罗（大人）",
+    "source": "json",
+    "jp": "アボロ(大人)",
+    "star": "★3"
+  },
+  {
+    "title": "天才美少女艺术家",
+    "name": "阿尔蒂",
+    "source": "json",
+    "jp": "アルテ",
+    "star": "★3"
+  },
+  {
+    "title": "命脉的守护天使",
+    "name": "阿尔莫塔赫尔",
+    "source": "json",
+    "jp": "アルモタヘル",
+    "star": "★3"
+  },
+  {
+    "title": "命脉的幼小化身",
+    "name": "阿尔莫塔赫尔（幼）",
+    "source": "json",
+    "jp": "アルモタヘル(ちぃ)",
+    "star": "★3"
+  },
+  {
+    "title": "来抓我呀",
+    "name": "阿尔莫塔赫尔（幼）",
+    "source": "json",
+    "jp": "アルモタヘル(ちぃ)",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "阿尼玛",
+    "source": "json",
+    "jp": "アニマ",
+    "star": "★3"
+  },
+  {
+    "title": "救世の錬金術師",
+    "name": "阿尼玛",
+    "source": "user",
+    "jp": "アニマ",
+    "star": "★3"
+  },
+  {
+    "title": "极天炼金术师",
+    "name": "阿尼玛《极天》",
+    "source": "json",
+    "jp": "アニマ《極天》",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "阿纽拉丝",
+    "source": "json",
+    "jp": "アニュラス",
+    "star": "★2"
+  },
+  {
+    "title": "祝宴的伊始",
+    "name": "阿纽拉丝",
+    "source": "json",
+    "jp": "アニュラス",
+    "star": "★2"
+  },
+  {
+    "title": "假面暗黒騎士",
+    "name": "阿纽拉丝",
+    "source": "user",
+    "jp": "アニュラス",
+    "star": "★2"
+  },
+  {
+    "title": "金纱的觉醒骑士",
+    "name": "阿纽拉丝《星灵》",
+    "source": "json",
+    "jp": "アニュラス《星霊》",
+    "star": "★3"
+  },
+  {
+    "title": "夏日的白色闪光",
+    "name": "艾尔狄丽洁",
+    "source": "json",
+    "jp": "エルデリーゼ",
+    "star": "★3"
+  },
+  {
+    "title": "漆黑之枪的大小姐",
+    "name": "艾尔狄丽洁",
+    "source": "json",
+    "jp": "エルデリーゼ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "艾丽丝",
+    "source": "json",
+    "jp": "エリス",
+    "star": "★2"
+  },
+  {
+    "title": "轰雷的华骑士",
+    "name": "艾丽丝",
+    "source": "shot",
+    "jp": "エリス",
+    "star": "★2"
+  },
+  {
+    "title": "恶作剧风的魔女",
+    "name": "艾琳",
+    "source": "json",
+    "jp": "アイリーン",
+    "star": "★3"
+  },
+  {
+    "title": "计算过的旋律",
+    "name": "艾丝梅拉妲",
+    "source": "json",
+    "jp": "エスメラルダ",
+    "star": "★3"
+  },
+  {
+    "title": "无秽祈愿",
+    "name": "艾斯提尔",
+    "source": "json",
+    "jp": "エステル",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "安娜",
+    "source": "json",
+    "jp": "アナ",
+    "star": "★3"
+  },
+  {
+    "title": "瞄准夏天",
+    "name": "安娜",
+    "source": "json",
+    "jp": "アナ",
+    "star": "★3"
+  },
+  {
+    "title": "贺正迎新",
+    "name": "安娜",
+    "source": "json",
+    "jp": "アナ",
+    "star": "★3"
+  },
+  {
+    "title": "破局射手",
+    "name": "安娜",
+    "source": "shot",
+    "jp": "アナ",
+    "star": "★3"
+  },
+  {
+    "title": "煌炎的超天使",
+    "name": "安娜《煌炎》",
+    "source": "json",
+    "jp": "アナ《煌炎》",
+    "star": "★3"
+  },
+  {
+    "title": "小小的复仇者",
+    "name": "安朱",
+    "source": "json",
+    "jp": "エンジュ",
+    "star": "★3"
+  },
+  {
+    "title": "美之亵渎者",
+    "name": "巴蕾莉",
+    "source": "json",
+    "jp": "ヴァレリー",
+    "star": "★3"
+  },
+  {
+    "title": "亲情的象征",
+    "name": "百可花",
+    "source": "json",
+    "jp": "ステラ",
+    "star": "★3"
+  },
+  {
+    "title": "好人吸血鬼",
+    "name": "贝阿朵莉丝",
+    "source": "json",
+    "jp": "ベアトリス",
+    "star": "★3"
+  },
+  {
+    "title": "阳光吸血鬼",
+    "name": "贝阿朵莉丝",
+    "source": "json",
+    "jp": "ベアトリス",
+    "star": "★3"
+  },
+  {
+    "title": "天惠的守护天使",
+    "name": "大姬",
+    "source": "json",
+    "jp": "オオヒメ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "菲奥娜",
+    "source": "json",
+    "jp": "フィオナ",
+    "star": "★3"
+  },
+  {
+    "title": "太阳的祝福",
+    "name": "菲奥娜",
+    "source": "json",
+    "jp": "フィオナ",
+    "star": "★3"
+  },
+  {
+    "title": "海边的星徒会长",
+    "name": "菲奥娜",
+    "source": "json",
+    "jp": "フィオナ",
+    "star": "★3"
+  },
+  {
+    "title": "迎接初日",
+    "name": "菲奥娜",
+    "source": "json",
+    "jp": "フィオナ",
+    "star": "★3"
+  },
+  {
+    "title": "流星公主",
+    "name": "菲奥娜",
+    "source": "shot",
+    "jp": "フィオナ",
+    "star": "★3"
+  },
+  {
+    "title": "凝视群星之人",
+    "name": "菲奥娜《魔王》",
+    "source": "json",
+    "jp": "フィオナ《魔王》",
+    "star": "★3"
+  },
+  {
+    "title": "星选的驱魔师",
+    "name": "菲莉希",
+    "source": "json",
+    "jp": "フェリシー",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "菲妮艾尔",
+    "source": "json",
+    "jp": "フェニエル",
+    "star": "★2"
+  },
+  {
+    "title": "卖火柴的天使",
+    "name": "菲妮艾尔",
+    "source": "json",
+    "jp": "フェニエル",
+    "star": "★2"
+  },
+  {
+    "title": "苍炎的雏天使",
+    "name": "菲妮艾尔",
+    "source": "shot",
+    "jp": "フェニエル",
+    "star": "★2"
+  },
+  {
+    "title": "比翼的不死鸟",
+    "name": "菲妮艾尔《凤凰》",
+    "source": "json",
+    "jp": "フェニエル《鳳凰》",
+    "star": "★3"
+  },
+  {
+    "title": "炽焰的旗手",
+    "name": "芙兰",
+    "source": "json",
+    "jp": "フラン",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "芙洛伦西娅",
+    "source": "json",
+    "jp": "フロレンシア",
+    "star": "★1"
+  },
+  {
+    "title": "疗愈+痛楚",
+    "name": "芙洛伦西娅",
+    "source": "shot",
+    "jp": "フロレンシア",
+    "star": "★1"
+  },
+  {
+    "title": "蝶妖精的苍骑士",
+    "name": "格蕾丝",
+    "source": "json",
+    "jp": "グレイス",
+    "star": "★3"
+  },
+  {
+    "title": "静谧的祈祷者",
+    "name": "格洛丽亚",
+    "source": "json",
+    "jp": "グロリア",
+    "star": "★2"
+  },
+  {
+    "title": "禁言的阴阳师",
+    "name": "宫春",
+    "source": "json",
+    "jp": "ミヤハル",
+    "star": "★3"
+  },
+  {
+    "title": "如白浪般闪耀",
+    "name": "海伦娜",
+    "source": "json",
+    "jp": "ヘレナ",
+    "star": "★3"
+  },
+  {
+    "title": "飞舞的九净樱花",
+    "name": "海伦娜",
+    "source": "json",
+    "jp": "ヘレナ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "红明",
+    "source": "json",
+    "jp": "紅明",
+    "star": "★2"
+  },
+  {
+    "title": "元祖・三太九郎",
+    "name": "红明",
+    "source": "json",
+    "jp": "紅明",
+    "star": "★2"
+  },
+  {
+    "title": "善哉童子",
+    "name": "红明",
+    "source": "shot",
+    "jp": "紅明",
+    "star": "★2"
+  },
+  {
+    "title": "铁扇公主",
+    "name": "红明《罗刹》",
+    "source": "json",
+    "jp": "紅明《羅刹》",
+    "star": "★3"
+  },
+  {
+    "title": "Magica2026",
+    "name": "花织",
+    "source": "json",
+    "jp": "花織",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "环",
+    "source": "json",
+    "jp": "環",
+    "star": "★1"
+  },
+  {
+    "title": "欢乐打工天使",
+    "name": "环",
+    "source": "shot",
+    "jp": "環",
+    "star": "★1"
+  },
+  {
+    "title": "大欲的女帝",
+    "name": "煌嶺",
+    "source": "json",
+    "jp": "煌嶺",
+    "star": "★3"
+  },
+  {
+    "title": "灵魂公主",
+    "name": "杰奎琳",
+    "source": "json",
+    "jp": "ジャクリーヌ",
+    "star": "★3"
+  },
+  {
+    "title": "精力旺盛需关照",
+    "name": "静流",
+    "source": "json",
+    "jp": "シズル",
+    "star": "★3"
+  },
+  {
+    "title": "切愿的魔法少女",
+    "name": "静羽",
+    "source": "json",
+    "jp": "シズハ",
+    "star": "★2"
+  },
+  {
+    "title": "谨贺的甜酒",
+    "name": "静羽",
+    "source": "json",
+    "jp": "シズハ",
+    "star": "★2"
+  },
+  {
+    "title": "圣杯的真魔法少女",
+    "name": "静羽⟪心愿⟫",
+    "source": "json",
+    "jp": "シズハ《心願》",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "卡缇娅",
+    "source": "json",
+    "jp": "カティア",
+    "star": "★2"
+  },
+  {
+    "title": "冲刺汪！",
+    "name": "卡缇娅",
+    "source": "json",
+    "jp": "カティア",
+    "star": "★2"
+  },
+  {
+    "title": "为您服务汪",
+    "name": "卡缇娅",
+    "source": "shot",
+    "jp": "カティア",
+    "star": "★2"
+  },
+  {
+    "title": "小阳炎的魔女",
+    "name": "卡娅",
+    "source": "json",
+    "jp": "カヤ",
+    "star": "★3"
+  },
+  {
+    "title": "圣域的镇压天使",
+    "name": "凯缇",
+    "source": "json",
+    "jp": "ケイティ",
+    "star": "★3"
+  },
+  {
+    "title": "星云的支配者",
+    "name": "克劳迪娅",
+    "source": "json",
+    "jp": "クラウディア",
+    "star": "★3"
+  },
+  {
+    "title": "生诞祭的圣衣",
+    "name": "克劳迪娅",
+    "source": "json",
+    "jp": "クラウディア",
+    "star": "★3"
+  },
+  {
+    "title": "黄昏的公主",
+    "name": "克劳迪娅《黄昏》",
+    "source": "json",
+    "jp": "クラウディア《黄昏》",
+    "star": "★3"
+  },
+  {
+    "title": "齐天大圣",
+    "name": "空贤",
+    "source": "json",
+    "jp": "クーシェン",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "库洛特",
+    "source": "json",
+    "jp": "クロト",
+    "star": "★1"
+  },
+  {
+    "title": "不完全的魔王",
+    "name": "库洛特",
+    "source": "shot",
+    "jp": "クロト",
+    "star": "★1"
+  },
+  {
+    "title": "超凡艺术家",
+    "name": "拉斐尔",
+    "source": "json",
+    "jp": "ラファエロ",
+    "star": "★3"
+  },
+  {
+    "title": "圆环的守护天使",
+    "name": "拉克夏",
+    "source": "json",
+    "jp": "ラクシャ",
+    "star": "★3"
+  },
+  {
+    "title": "漂泊的泳装剑士",
+    "name": "拉缇耶",
+    "source": "json",
+    "jp": "ラティエ",
+    "star": "★3"
+  },
+  {
+    "title": "漂泊的破天荒",
+    "name": "拉缇耶",
+    "source": "json",
+    "jp": "ラティエ",
+    "star": "★3"
+  },
+  {
+    "title": "光速女仆之星",
+    "name": "兰美",
+    "source": "json",
+    "jp": "蘭美",
+    "star": "★3"
+  },
+  {
+    "title": "兔兔圣诞老人",
+    "name": "兰美",
+    "source": "json",
+    "jp": "蘭美",
+    "star": "★3"
+  },
+  {
+    "title": "白兔的纯情",
+    "name": "兰美",
+    "source": "json",
+    "jp": "蘭美",
+    "star": "★3"
+  },
+  {
+    "title": "变幻的女演员",
+    "name": "蓝",
+    "source": "json",
+    "jp": "藍",
+    "star": "★3"
+  },
+  {
+    "title": "可爱风格",
+    "name": "雷米卡",
+    "source": "json",
+    "jp": "レミカ",
+    "star": "★3"
+  },
+  {
+    "title": "电击热唱的歌姬",
+    "name": "雷米卡",
+    "source": "json",
+    "jp": "レミカ",
+    "star": "★3"
+  },
+  {
+    "title": "小小的真心",
+    "name": "雷米卡（幼）",
+    "source": "json",
+    "jp": "レミカ(ちぃ)",
+    "star": "★2"
+  },
+  {
+    "title": "紫炎的咒剑士",
+    "name": "蕾蒂西亚",
+    "source": "json",
+    "jp": "レティシア",
+    "star": "★3"
+  },
+  {
+    "title": "最后的坍缩星",
+    "name": "蕾拉",
+    "source": "json",
+    "jp": "レイラ",
+    "star": "★3"
+  },
+  {
+    "title": "潮音的坍缩星",
+    "name": "蕾拉",
+    "source": "json",
+    "jp": "レイラ",
+    "star": "★3"
+  },
+  {
+    "title": "清丽的泳装姿态",
+    "name": "梨绪",
+    "source": "json",
+    "jp": "梨緒",
+    "star": "★3"
+  },
+  {
+    "title": "霹雳射手",
+    "name": "梨绪",
+    "source": "json",
+    "jp": "梨緒",
+    "star": "★3"
+  },
+  {
+    "title": "深渊书库的管理者",
+    "name": "莉贝尔",
+    "source": "json",
+    "jp": "リィベル",
+    "star": "★3"
+  },
+  {
+    "title": "点亮书籍之光",
+    "name": "莉贝尔",
+    "source": "json",
+    "jp": "リィベル",
+    "star": "★3"
+  },
+  {
+    "title": "侍奉皇妃之剑",
+    "name": "莉恩",
+    "source": "json",
+    "jp": "リーエン",
+    "star": "★3"
+  },
+  {
+    "title": "小小毒师",
+    "name": "莉可林菲娅",
+    "source": "json",
+    "jp": "リコリンフィア",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "莉莉娅",
+    "source": "json",
+    "jp": "リーリア",
+    "star": "★3"
+  },
+  {
+    "title": "初春棱镜",
+    "name": "莉莉娅",
+    "source": "json",
+    "jp": "リーリア",
+    "star": "★3"
+  },
+  {
+    "title": "夏色魔法☆",
+    "name": "莉莉娅",
+    "source": "json",
+    "jp": "リーリア",
+    "star": "★3"
+  },
+  {
+    "title": "虹色魔弹使",
+    "name": "莉莉娅",
+    "source": "shot",
+    "jp": "リーリア",
+    "star": "★3"
+  },
+  {
+    "title": "青春彩虹",
+    "name": "莉莉娅《彩爱》",
+    "source": "json",
+    "jp": "リーリア《彩愛》",
+    "star": "★3"
+  },
+  {
+    "title": "吧唧吧唧妹妹",
+    "name": "莉娜",
+    "source": "json",
+    "jp": "リーナ",
+    "star": "★3"
+  },
+  {
+    "title": "破碎姐妹",
+    "name": "莉娜",
+    "source": "json",
+    "jp": "リーナ",
+    "star": "★3"
+  },
+  {
+    "title": "热带妈妈",
+    "name": "莉诺",
+    "source": "json",
+    "jp": "リノ",
+    "star": "★3"
+  },
+  {
+    "title": "空间魔女",
+    "name": "莉诺",
+    "source": "json",
+    "jp": "リノ",
+    "star": "★3"
+  },
+  {
+    "title": "度假村制造者",
+    "name": "莉普尔",
+    "source": "json",
+    "jp": "リップル",
+    "star": "★3"
+  },
+  {
+    "title": "礼物就是我",
+    "name": "莉普尔",
+    "source": "json",
+    "jp": "リップル",
+    "star": "★3"
+  },
+  {
+    "title": "骑士皇女",
+    "name": "莉亚",
+    "source": "json",
+    "jp": "リア",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "露莉艾尔",
+    "source": "json",
+    "jp": "ルリエル",
+    "star": "★2"
+  },
+  {
+    "title": "初见大海",
+    "name": "露莉艾尔",
+    "source": "json",
+    "jp": "ルリエル",
+    "star": "★2"
+  },
+  {
+    "title": "弦奏神乐",
+    "name": "露莉艾尔",
+    "source": "json",
+    "jp": "ルリエル",
+    "star": "★2"
+  },
+  {
+    "title": "星与花之骑士",
+    "name": "露莉艾尔",
+    "source": "json",
+    "jp": "ルリエル",
+    "star": "★2"
+  },
+  {
+    "title": "隐瞒自称的天使",
+    "name": "露莉艾尔",
+    "source": "json",
+    "jp": "ルリエル",
+    "star": "★2"
+  },
+  {
+    "title": "加护的号角",
+    "name": "露莉艾尔",
+    "source": "shot",
+    "jp": "ルリエル",
+    "star": "★2"
+  },
+  {
+    "title": "寄宿火炎的宝石",
+    "name": "露露",
+    "source": "json",
+    "jp": "ルルゥ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "露露卡",
+    "source": "json",
+    "jp": "ルルカ",
+    "star": "★1"
+  },
+  {
+    "title": "VR泳装直播",
+    "name": "露露卡",
+    "source": "json",
+    "jp": "ルルカ",
+    "star": "★1"
+  },
+  {
+    "title": "圣夜颂歌",
+    "name": "露露卡",
+    "source": "json",
+    "jp": "ルルカ",
+    "star": "★1"
+  },
+  {
+    "title": "手作妹妹巧克力",
+    "name": "露露卡",
+    "source": "json",
+    "jp": "ルルカ",
+    "star": "★1"
+  },
+  {
+    "title": "苍穹的虚拟歌姬",
+    "name": "露露卡",
+    "source": "shot",
+    "jp": "ルルカ",
+    "star": "★1"
+  },
+  {
+    "title": "创世的星辰女神",
+    "name": "露妮娅",
+    "source": "json",
+    "jp": "ルネア",
+    "star": "★3"
+  },
+  {
+    "title": "崭新的女神之器",
+    "name": "露薇涅",
+    "source": "json",
+    "jp": "ルヴィネ",
+    "star": "★3"
+  },
+  {
+    "title": "傲慢的演出家",
+    "name": "罗克姗娜",
+    "source": "json",
+    "jp": "ロクサーナ",
+    "star": "★3"
+  },
+  {
+    "title": "碧水的缪斯",
+    "name": "萝萝特",
+    "source": "json",
+    "jp": "ロロット",
+    "star": "★3"
+  },
+  {
+    "title": "\"境界\"守护者",
+    "name": "玛格妲蕾娜",
+    "source": "json",
+    "jp": "マグダレナ",
+    "star": "★3"
+  },
+  {
+    "title": "境界的幼小化身",
+    "name": "玛格妲蕾娜（幼）",
+    "source": "json",
+    "jp": "マグダレナ(ちぃ)",
+    "star": "★3"
+  },
+  {
+    "title": "敲级可爱",
+    "name": "玛格妲蕾娜（幼）",
+    "source": "json",
+    "jp": "マグダレナ(ちぃ)",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "玛哈姆特",
+    "source": "json",
+    "jp": "マハムート",
+    "star": "★3"
+  },
+  {
+    "title": "真夏的龙妃",
+    "name": "玛哈姆特",
+    "source": "json",
+    "jp": "マハムート",
+    "star": "★3"
+  },
+  {
+    "title": "威严可怖的宠妃",
+    "name": "玛哈姆特",
+    "source": "shot",
+    "jp": "マハムート",
+    "star": "★3"
+  },
+  {
+    "title": "宵暗的极星",
+    "name": "玛哈姆特",
+    "source": "shot",
+    "jp": "マハムート",
+    "star": "★3"
+  },
+  {
+    "title": "威严可怖的宠妃",
+    "name": "玛哈姆特《超龙》",
+    "source": "json",
+    "jp": "マハムート《超竜》",
+    "star": "★3"
+  },
+  {
+    "title": "人偶大师",
+    "name": "玛丽昂",
+    "source": "json",
+    "jp": "マリオン",
+    "star": "★2"
+  },
+  {
+    "title": "狩猎魔女的魔女",
+    "name": "玛丽昂《葬礼》",
+    "source": "json",
+    "jp": "マリオン《葬礼》",
+    "star": "★2"
+  },
+  {
+    "title": "",
+    "name": "玛丽贝尔",
+    "source": "json",
+    "jp": "マリーベル",
+    "star": "★1"
+  },
+  {
+    "title": "血腥玛丽",
+    "name": "玛丽贝尔",
+    "source": "shot",
+    "jp": "マリーベル",
+    "star": "★1"
+  },
+  {
+    "title": "",
+    "name": "玛托依",
+    "source": "json",
+    "jp": "マトイ",
+    "star": "★1"
+  },
+  {
+    "title": "二刀全能的巫女",
+    "name": "玛托依",
+    "source": "json",
+    "jp": "マトイ",
+    "star": "★1"
+  },
+  {
+    "title": "夏亦伴君",
+    "name": "玛托依",
+    "source": "json",
+    "jp": "マトイ",
+    "star": "★1"
+  },
+  {
+    "title": "平凡防御者",
+    "name": "玛托依",
+    "source": "shot",
+    "jp": "マトイ",
+    "star": "★1"
+  },
+  {
+    "title": "绝对普遍的守护者",
+    "name": "玛托依《缠雷》",
+    "source": "json",
+    "jp": "マトイ《纏雷》",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "梅尔艾尔",
+    "source": "json",
+    "jp": "メルエル",
+    "star": "★3"
+  },
+  {
+    "title": "一心一意的偶像",
+    "name": "梅尔艾尔",
+    "source": "json",
+    "jp": "メルエル",
+    "star": "★3"
+  },
+  {
+    "title": "勇恋迈进",
+    "name": "梅尔艾尔（幼）",
+    "source": "json",
+    "jp": "メルエル(ちぃ)",
+    "star": "★3"
+  },
+  {
+    "title": "勇敢迈进",
+    "name": "梅尔艾尔（幼）",
+    "source": "shot",
+    "jp": "メルエル(ちぃ)",
+    "star": "★3"
+  },
+  {
+    "title": "誓约者新星",
+    "name": "梅尔艾尔⟪极光⟫",
+    "source": "json",
+    "jp": "メルエル《極光》",
+    "star": "★3"
+  },
+  {
+    "title": "妹魔王増量中",
+    "name": "梅普露",
+    "source": "json",
+    "jp": "メイプル",
+    "star": "★3"
+  },
+  {
+    "title": "自称・妹魔王",
+    "name": "梅普露",
+    "source": "json",
+    "jp": "メイプル",
+    "star": "★3"
+  },
+  {
+    "title": "妹魔王增量中",
+    "name": "梅普露",
+    "source": "shot",
+    "jp": "メイプル",
+    "star": "★3"
+  },
+  {
+    "title": "爆碎★破坏天使",
+    "name": "梅忒欧拉",
+    "source": "json",
+    "jp": "メテオラ",
+    "star": "★3"
+  },
+  {
+    "title": "鹤之喝彩",
+    "name": "美鹤",
+    "source": "json",
+    "jp": "美鶴",
+    "star": "★3"
+  },
+  {
+    "title": "鹤翼的针妙",
+    "name": "美鹤",
+    "source": "json",
+    "jp": "美鶴",
+    "star": "★3"
+  },
+  {
+    "title": "箭之鸣彩",
+    "name": "美鹤",
+    "source": "shot",
+    "jp": "美鶴",
+    "star": "★3"
+  },
+  {
+    "title": "《境界》的从者",
+    "name": "米露菲",
+    "source": "json",
+    "jp": "ミルフィー",
+    "star": "★3"
+  },
+  {
+    "title": "助威天使",
+    "name": "米露菲",
+    "source": "json",
+    "jp": "ミルフィー",
+    "star": "★3"
+  },
+  {
+    "title": "灵幻学级委员长",
+    "name": "米露菲",
+    "source": "json",
+    "jp": "ミルフィー",
+    "star": "★3"
+  },
+  {
+    "title": "星选的大怪盗",
+    "name": "米涅可",
+    "source": "json",
+    "jp": "ミネコ",
+    "star": "★3"
+  },
+  {
+    "title": "小不点风纪委员",
+    "name": "米娅",
+    "source": "json",
+    "jp": "ミア",
+    "star": "★3"
+  },
+  {
+    "title": "清澄的雏骑士",
+    "name": "莫娜卡",
+    "source": "json",
+    "jp": "モナカ",
+    "star": "★2"
+  },
+  {
+    "title": "步行图书馆",
+    "name": "莫奈",
+    "source": "json",
+    "jp": "モネ",
+    "star": "★3"
+  },
+  {
+    "title": "泳装圣诞老人！？",
+    "name": "莫奈",
+    "source": "json",
+    "jp": "モネ",
+    "star": "★3"
+  },
+  {
+    "title": "编织故事的魔将",
+    "name": "莫奈《傲慢》",
+    "source": "json",
+    "jp": "モネ《傲慢》",
+    "star": "★3"
+  },
+  {
+    "title": "笑面的合理主义者",
+    "name": "缪",
+    "source": "json",
+    "jp": "ミウ",
+    "star": "★2"
+  },
+  {
+    "title": "",
+    "name": "娜米艾尔",
+    "source": "json",
+    "jp": "ナミエル",
+    "star": "★3"
+  },
+  {
+    "title": "小小新娘",
+    "name": "娜米艾尔",
+    "source": "json",
+    "jp": "ナミエル",
+    "star": "★3"
+  },
+  {
+    "title": "甜蜜冰霜",
+    "name": "娜米艾尔",
+    "source": "json",
+    "jp": "ナミエル",
+    "star": "★3"
+  },
+  {
+    "title": "清爽&洁净",
+    "name": "娜米艾尔",
+    "source": "shot",
+    "jp": "ナミエル",
+    "star": "★3"
+  },
+  {
+    "title": "圣庭园的刺客",
+    "name": "娜塔莎",
+    "source": "json",
+    "jp": "ナターシャ",
+    "star": "★3"
+  },
+  {
+    "title": "海洋特工",
+    "name": "娜塔莎",
+    "source": "json",
+    "jp": "ナターシャ",
+    "star": "★3"
+  },
+  {
+    "title": "剑术大师",
+    "name": "奈奈香",
+    "source": "json",
+    "jp": "ナナカ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "奈泽麦茵",
+    "source": "json",
+    "jp": "ネーゼマイン",
+    "star": "★3"
+  },
+  {
+    "title": "恶作剧小红帽",
+    "name": "奈泽麦茵",
+    "source": "json",
+    "jp": "ネーゼマイン",
+    "star": "★3"
+  },
+  {
+    "title": "海滨的爆弹贝",
+    "name": "奈泽麦茵",
+    "source": "json",
+    "jp": "ネーゼマイン",
+    "star": "★3"
+  },
+  {
+    "title": "逆转投骰",
+    "name": "奈泽麦茵",
+    "source": "json",
+    "jp": "ネーゼマイン",
+    "star": "★3"
+  },
+  {
+    "title": "陷阱爆破手",
+    "name": "奈泽麦茵",
+    "source": "shot",
+    "jp": "ネーゼマイン",
+    "star": "★3"
+  },
+  {
+    "title": "深渊扳机",
+    "name": "奈泽麦茵⟪恶戏⟫",
+    "source": "json",
+    "jp": "ネーゼマイン《悪戯》",
+    "star": "★3"
+  },
+  {
+    "title": "星降的魔法使",
+    "name": "诺德豪森",
+    "source": "json",
+    "jp": "ノルトハウゼン",
+    "star": "★3"
+  },
+  {
+    "title": "放浪野丫头",
+    "name": "帕鲁米埃",
+    "source": "json",
+    "jp": "パルミエ",
+    "star": "★3"
+  },
+  {
+    "title": "试炼的守护天使",
+    "name": "帕提尔",
+    "source": "json",
+    "jp": "パテル",
+    "star": "★3"
+  },
+  {
+    "title": "鲨鱼鳍驭手",
+    "name": "帕提尔",
+    "source": "json",
+    "jp": "パテル",
+    "star": "★3"
+  },
+  {
+    "title": "反转的纯白终末",
+    "name": "普莉姆拉",
+    "source": "json",
+    "jp": "プリムラ",
+    "star": "★3"
+  },
+  {
+    "title": "邪恶的末日兵器",
+    "name": "普莉姆拉",
+    "source": "json",
+    "jp": "プリムラ",
+    "star": "★3"
+  },
+  {
+    "title": "破灭的第二局",
+    "name": "普莉姆拉《第二形态》",
+    "source": "json",
+    "jp": "プリムラ《セカンド》",
+    "star": "★3"
+  },
+  {
+    "title": "反转的纯白终末",
+    "name": "普莉姆拉《第二形态》",
+    "source": "shot",
+    "jp": "プリムラ《セカンド》",
+    "star": "★3"
+  },
+  {
+    "title": "苍海之国的元气少女",
+    "name": "普特拉",
+    "source": "json",
+    "jp": "プトラ",
+    "star": "★3"
+  },
+  {
+    "title": "龙焰的魔剑骑士",
+    "name": "齐格",
+    "source": "json",
+    "jp": "ジグ",
+    "star": "★3"
+  },
+  {
+    "title": "大师级女仆",
+    "name": "琪丽卡",
+    "source": "json",
+    "jp": "キリカ",
+    "star": "★3"
+  },
+  {
+    "title": "新婚少女",
+    "name": "琪丽卡",
+    "source": "json",
+    "jp": "キリカ",
+    "star": "★3"
+  },
+  {
+    "title": "海边猎人",
+    "name": "琪莎娜",
+    "source": "json",
+    "jp": "キサナ",
+    "star": "★3"
+  },
+  {
+    "title": "狂狮",
+    "name": "琪莎娜",
+    "source": "json",
+    "jp": "キサナ",
+    "star": "★3"
+  },
+  {
+    "title": "极星的最强之枪",
+    "name": "千奈",
+    "source": "json",
+    "jp": "チナ",
+    "star": "★3"
+  },
+  {
+    "title": "冷酷司令官",
+    "name": "塞德娜",
+    "source": "json",
+    "jp": "セドナ",
+    "star": "★3"
+  },
+  {
+    "title": "炎天下的凉魔女",
+    "name": "塞德娜",
+    "source": "json",
+    "jp": "セドナ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "塞拉",
+    "source": "json",
+    "jp": "セーラ",
+    "star": "★1"
+  },
+  {
+    "title": "海上射手",
+    "name": "塞拉",
+    "source": "json",
+    "jp": "セーラ",
+    "star": "★1"
+  },
+  {
+    "title": "魔性兔女郎",
+    "name": "塞拉",
+    "source": "json",
+    "jp": "セーラ",
+    "star": "★1"
+  },
+  {
+    "title": "淘气副会长",
+    "name": "塞拉",
+    "source": "shot",
+    "jp": "セーラ",
+    "star": "★1"
+  },
+  {
+    "title": "疯狂魔女",
+    "name": "塞西莉亚",
+    "source": "json",
+    "jp": "シェシィーリエ",
+    "star": "★3"
+  },
+  {
+    "title": "鼠鼠魔女",
+    "name": "塞西莉亚",
+    "source": "shot",
+    "jp": "シェシィーリエ",
+    "star": "★3"
+  },
+  {
+    "title": "万成的幼天使",
+    "name": "塞西亚",
+    "source": "json",
+    "jp": "セシア",
+    "star": "★3"
+  },
+  {
+    "title": "二代目・三太九郎",
+    "name": "塞西亚",
+    "source": "json",
+    "jp": "セシア",
+    "star": "★3"
+  },
+  {
+    "title": "二代目·三太九郎",
+    "name": "塞西亚",
+    "source": "shot",
+    "jp": "セシア",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "赛娜丽",
+    "source": "json",
+    "jp": "セナリィ",
+    "star": "★1"
+  },
+  {
+    "title": "恶姬兔视眈眈",
+    "name": "赛娜丽",
+    "source": "json",
+    "jp": "セナリィ",
+    "star": "★1"
+  },
+  {
+    "title": "烈火枪匪",
+    "name": "赛娜丽",
+    "source": "shot",
+    "jp": "セナリィ",
+    "star": "★1"
+  },
+  {
+    "title": "恶即斩强化者",
+    "name": "赛娜丽《女帝》",
+    "source": "json",
+    "jp": "セナリィ《女帝》",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "刹那",
+    "source": "json",
+    "jp": "せつな",
+    "star": "★1"
+  },
+  {
+    "title": "爱遁巧克力赠礼",
+    "name": "刹那",
+    "source": "json",
+    "jp": "せつな",
+    "star": "★1"
+  },
+  {
+    "title": "紫电女忍",
+    "name": "刹那",
+    "source": "shot",
+    "jp": "せつな",
+    "star": "★1"
+  },
+  {
+    "title": "樱花·紫樱忍军",
+    "name": "刹那《开花》",
+    "source": "json",
+    "jp": "せつな《開花》",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "莎朗",
+    "source": "json",
+    "jp": "サラン",
+    "star": "★2"
+  },
+  {
+    "title": "南瓜公主",
+    "name": "莎朗",
+    "source": "json",
+    "jp": "サラン",
+    "star": "★2"
+  },
+  {
+    "title": "甜蜜夏日",
+    "name": "莎朗",
+    "source": "json",
+    "jp": "サラン",
+    "star": "★2"
+  },
+  {
+    "title": "甜甜夏日",
+    "name": "莎朗",
+    "source": "shot",
+    "jp": "サラン",
+    "star": "★2"
+  },
+  {
+    "title": "柔软香甜",
+    "name": "莎朗",
+    "source": "shot",
+    "jp": "サラン",
+    "star": "★2"
+  },
+  {
+    "title": "",
+    "name": "莎隆",
+    "source": "json",
+    "jp": "シャロン",
+    "star": "★2"
+  },
+  {
+    "title": "甜蜜纯白",
+    "name": "莎隆",
+    "source": "json",
+    "jp": "シャロン",
+    "star": "★2"
+  },
+  {
+    "title": "纯白修女",
+    "name": "莎隆",
+    "source": "json",
+    "jp": "シャロン",
+    "star": "★2"
+  },
+  {
+    "title": "端庄修女？",
+    "name": "莎隆",
+    "source": "shot",
+    "jp": "シャロン",
+    "star": "★2"
+  },
+  {
+    "title": "",
+    "name": "莎夏",
+    "source": "json",
+    "jp": "サーシャ",
+    "star": "★3"
+  },
+  {
+    "title": "夏日姐姐♪",
+    "name": "莎夏",
+    "source": "json",
+    "jp": "サーシャ",
+    "star": "★3"
+  },
+  {
+    "title": "雨过新晴",
+    "name": "莎夏",
+    "source": "json",
+    "jp": "サーシャ",
+    "star": "★3"
+  },
+  {
+    "title": "冰雪女王",
+    "name": "莎夏",
+    "source": "shot",
+    "jp": "サーシャ",
+    "star": "★3"
+  },
+  {
+    "title": "冰晶新星",
+    "name": "莎夏《绝冰》",
+    "source": "json",
+    "jp": "サーシャ《絶氷》",
+    "star": "★3"
+  },
+  {
+    "title": "冰剑藤花",
+    "name": "闪",
+    "source": "json",
+    "jp": "閃",
+    "star": "★3"
+  },
+  {
+    "title": "飞跃风暴的射手",
+    "name": "圣沙",
+    "source": "json",
+    "jp": "聖沙",
+    "star": "★3"
+  },
+  {
+    "title": "夏日辉翼",
+    "name": "圣沙",
+    "source": "shot",
+    "jp": "聖沙",
+    "star": "★3"
+  },
+  {
+    "title": "精炼的机甲天使",
+    "name": "施蒂勒",
+    "source": "json",
+    "jp": "シュティレ",
+    "star": "★2"
+  },
+  {
+    "title": "",
+    "name": "索菲亚",
+    "source": "json",
+    "jp": "ソフィア",
+    "star": "★2"
+  },
+  {
+    "title": "暖暖的被窝妖怪",
+    "name": "索菲亚",
+    "source": "json",
+    "jp": "ソフィア",
+    "star": "★2"
+  },
+  {
+    "title": "轻波荡漾",
+    "name": "索菲亚",
+    "source": "json",
+    "jp": "ソフィア",
+    "star": "★2"
+  },
+  {
+    "title": "冰刃妖精",
+    "name": "索菲亚",
+    "source": "shot",
+    "jp": "ソフィア",
+    "star": "★2"
+  },
+  {
+    "title": "新春加速器",
+    "name": "索菲娅",
+    "source": "json",
+    "jp": "ソフィア",
+    "star": "★2"
+  },
+  {
+    "title": "暴虐的吸血鬼",
+    "name": "索芙蕾",
+    "source": "json",
+    "jp": "ソフレ",
+    "star": "★3"
+  },
+  {
+    "title": "收集的魔女",
+    "name": "特雷吉安娜",
+    "source": "json",
+    "jp": "トレジアソナ",
+    "star": "★3"
+  },
+  {
+    "title": "光与再生的魔女",
+    "name": "特里菲娜",
+    "source": "json",
+    "jp": "トリュファイナ",
+    "star": "★3"
+  },
+  {
+    "title": "异乡的占星术师",
+    "name": "特莉夏",
+    "source": "json",
+    "jp": "トリシャ",
+    "star": "★3"
+  },
+  {
+    "title": "泳装伙伴",
+    "name": "特莉夏",
+    "source": "json",
+    "jp": "トリシャ",
+    "star": "★3"
+  },
+  {
+    "title": "请抽签吧",
+    "name": "特莉夏",
+    "source": "json",
+    "jp": "トリシャ",
+    "star": "★3"
+  },
+  {
+    "title": "道士之友",
+    "name": "特莉夏",
+    "source": "json",
+    "jp": "トリシャ",
+    "star": "★3"
+  },
+  {
+    "title": "雷弓的追踪者",
+    "name": "托玛露",
+    "source": "json",
+    "jp": "トマル",
+    "star": "★2"
+  },
+  {
+    "title": "司书的暑假",
+    "name": "威斯缇利娅",
+    "source": "json",
+    "jp": "ウィステリア",
+    "star": "★3"
+  },
+  {
+    "title": "被黑暗诅咒之人",
+    "name": "威斯缇利娅",
+    "source": "json",
+    "jp": "ウィステリア",
+    "star": "★3"
+  },
+  {
+    "title": "支配黑暗的魔将",
+    "name": "威斯缇利娅",
+    "source": "shot",
+    "jp": "ウィステリア",
+    "star": "★3"
+  },
+  {
+    "title": "支配黑暗的魔将",
+    "name": "威斯缇利娅《怠惰》",
+    "source": "json",
+    "jp": "ウィステリア《怠惰》",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "维纳斯",
+    "source": "json",
+    "jp": "ヴィーナス",
+    "star": "★3"
+  },
+  {
+    "title": "夏空的一等星",
+    "name": "维纳斯",
+    "source": "json",
+    "jp": "ヴィーナス",
+    "star": "★3"
+  },
+  {
+    "title": "招福明星",
+    "name": "维纳斯",
+    "source": "json",
+    "jp": "ヴィーナス",
+    "star": "★3"
+  },
+  {
+    "title": "热情调停者",
+    "name": "维纳斯",
+    "source": "shot",
+    "jp": "ヴィーナス",
+    "star": "★3"
+  },
+  {
+    "title": "Hello女儿",
+    "name": "维纳斯（幼）",
+    "source": "json",
+    "jp": "ヴィーナス(ちぃ)",
+    "star": "★3"
+  },
+  {
+    "title": "新星女神",
+    "name": "维纳斯《神光》",
+    "source": "json",
+    "jp": "ヴィーナス《神光》",
+    "star": "★3"
+  },
+  {
+    "title": "水镜的魔女",
+    "name": "温蒂",
+    "source": "json",
+    "jp": "ウェンディ",
+    "star": "★2"
+  },
+  {
+    "title": "爱的传道者",
+    "name": "乌尔斯拉",
+    "source": "json",
+    "jp": "ウルスラ",
+    "star": "★2"
+  },
+  {
+    "title": "一菓♥入魂",
+    "name": "乌兹梅娅",
+    "source": "json",
+    "jp": "ウズメイア",
+    "star": "★3"
+  },
+  {
+    "title": "嗷呜嗷呜♥狼天使",
+    "name": "乌兹梅娅",
+    "source": "json",
+    "jp": "ウズメイア",
+    "star": "★3"
+  },
+  {
+    "title": "雷薙的晴天使",
+    "name": "乌兹梅娅",
+    "source": "json",
+    "jp": "ウズメイア",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "舞亚",
+    "source": "json",
+    "jp": "舞亜",
+    "star": "★1"
+  },
+  {
+    "title": "圣夜糕点师",
+    "name": "舞亚",
+    "source": "json",
+    "jp": "舞亜",
+    "star": "★1"
+  },
+  {
+    "title": "银盘的神乐舞姬",
+    "name": "舞亚",
+    "source": "json",
+    "jp": "舞亜",
+    "star": "★1"
+  },
+  {
+    "title": "银盘上飞舞的女王",
+    "name": "舞亚",
+    "source": "shot",
+    "jp": "舞亜",
+    "star": "★1"
+  },
+  {
+    "title": "穷追不舍的猎犬",
+    "name": "希安",
+    "source": "json",
+    "jp": "シアン",
+    "star": "★2"
+  },
+  {
+    "title": "战岚的轰天使",
+    "name": "希尔薇",
+    "source": "json",
+    "jp": "シルヴィ",
+    "star": "★3"
+  },
+  {
+    "title": "豪快捕鱼人",
+    "name": "希尔薇",
+    "source": "json",
+    "jp": "シルヴィ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "希露迪欧涅",
+    "source": "json",
+    "jp": "ヒルディオーネ",
+    "star": "★3"
+  },
+  {
+    "title": "赌博螺旋",
+    "name": "希露迪欧涅",
+    "source": "json",
+    "jp": "ヒルディオーネ",
+    "star": "★3"
+  },
+  {
+    "title": "白昼的极星",
+    "name": "希露迪欧涅",
+    "source": "shot",
+    "jp": "ヒルディオーネ",
+    "star": "★3"
+  },
+  {
+    "title": "千变超化的战姬",
+    "name": "希露迪欧涅《螺旋》",
+    "source": "json",
+    "jp": "ヒルディオーネ《螺旋》",
+    "star": "★3"
+  },
+  {
+    "title": "赌博螺旋",
+    "name": "希露迪欧涅《螺旋》",
+    "source": "shot",
+    "jp": "ヒルディオーネ《螺旋》",
+    "star": "★3"
+  },
+  {
+    "title": "年轻的校长",
+    "name": "希诺",
+    "source": "json",
+    "jp": "シノ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "希特莉",
+    "source": "json",
+    "jp": "ヒトリ",
+    "star": "★2"
+  },
+  {
+    "title": "羞涩柴郡猫",
+    "name": "希特莉",
+    "source": "json",
+    "jp": "ヒトリ",
+    "star": "★2"
+  },
+  {
+    "title": "幽灵伴侣",
+    "name": "希特莉",
+    "source": "shot",
+    "jp": "ヒトリ",
+    "star": "★2"
+  },
+  {
+    "title": "江户的小巫女",
+    "name": "希祐",
+    "source": "json",
+    "jp": "ヒヨ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "夏蕾努",
+    "source": "json",
+    "jp": "シャルレーヌ",
+    "star": "★2"
+  },
+  {
+    "title": "甜爱香氛",
+    "name": "夏蕾努",
+    "source": "json",
+    "jp": "シャルレーヌ",
+    "star": "★2"
+  },
+  {
+    "title": "甜蜜香氛",
+    "name": "夏蕾努",
+    "source": "shot",
+    "jp": "シャルレーヌ",
+    "star": "★2"
+  },
+  {
+    "title": "嗜虐的贵族千金",
+    "name": "夏蕾努",
+    "source": "shot",
+    "jp": "シャルレーヌ",
+    "star": "★2"
+  },
+  {
+    "title": "纯真的天才",
+    "name": "向日葵",
+    "source": "json",
+    "jp": "ヒマワリ",
+    "star": "★3"
+  },
+  {
+    "title": "正义骇客",
+    "name": "柯哈露可",
+    "source": "json",
+    "jp": "コハルコ",
+    "star": "★2"
+  },
+  {
+    "title": "海滩巫师",
+    "name": "柯哈露可",
+    "source": "json",
+    "jp": "コハルコ",
+    "star": "★2"
+  },
+  {
+    "title": "正义怪客",
+    "name": "柯哈露可",
+    "source": "shot",
+    "jp": "コハルコ",
+    "star": "★2"
+  },
+  {
+    "title": "女巫复制体",
+    "name": "柯哈露可《光诞》",
+    "source": "json",
+    "jp": "コハルコ《光誕》",
+    "star": "★3"
+  },
+  {
+    "title": "Magica2026",
+    "name": "心爱",
+    "source": "json",
+    "jp": "ここあ",
+    "star": "★3"
+  },
+  {
+    "title": "幸运的魔法少女",
+    "name": "幸",
+    "source": "json",
+    "jp": "サチ",
+    "star": "★3"
+  },
+  {
+    "title": "黑暗秘宝",
+    "name": "幸",
+    "source": "json",
+    "jp": "サチ",
+    "star": "★3"
+  },
+  {
+    "title": "最幸的真魔法少女",
+    "name": "幸《命运》",
+    "source": "json",
+    "jp": "サチ《運命》",
+    "star": "★3"
+  },
+  {
+    "title": "天魔的暗骑士",
+    "name": "雪纺",
+    "source": "json",
+    "jp": "シフォン",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "亚姆",
+    "source": "json",
+    "jp": "アム",
+    "star": "★3"
+  },
+  {
+    "title": "夏日神盾",
+    "name": "亚姆",
+    "source": "json",
+    "jp": "アム",
+    "star": "★3"
+  },
+  {
+    "title": "配送祝福的驯鹿要塞",
+    "name": "亚姆",
+    "source": "json",
+    "jp": "アム",
+    "star": "★3"
+  },
+  {
+    "title": "活力迸发☆盾之少女",
+    "name": "亚姆",
+    "source": "shot",
+    "jp": "アム",
+    "star": "★3"
+  },
+  {
+    "title": "Magica2026",
+    "name": "阳彩",
+    "source": "json",
+    "jp": "陽彩",
+    "star": "★3"
+  },
+  {
+    "title": "健全的海上休闲",
+    "name": "伊克西里昂",
+    "source": "json",
+    "jp": "イクシリオン",
+    "star": "★3"
+  },
+  {
+    "title": "思欲情迷",
+    "name": "伊克希里昂",
+    "source": "json",
+    "jp": "イクシリオン",
+    "star": "★3"
+  },
+  {
+    "title": "织命灼炎",
+    "name": "伊克希里昂",
+    "source": "json",
+    "jp": "イクシリオン",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "伊蕾娜",
+    "source": "json",
+    "jp": "イレーナ",
+    "star": "★3"
+  },
+  {
+    "title": "圣诞黑圣女",
+    "name": "伊蕾娜",
+    "source": "json",
+    "jp": "イレーナ",
+    "star": "★3"
+  },
+  {
+    "title": "永恒的爱之告白",
+    "name": "伊蕾娜",
+    "source": "json",
+    "jp": "イレーナ",
+    "star": "★3"
+  },
+  {
+    "title": "魅惑巧克力",
+    "name": "伊蕾娜",
+    "source": "json",
+    "jp": "イレーナ",
+    "star": "★3"
+  },
+  {
+    "title": "紫薔薇の聖女",
+    "name": "伊蕾娜",
+    "source": "user",
+    "jp": "イレーナ",
+    "star": "★3"
+  },
+  {
+    "title": "Magica2026",
+    "name": "伊吕波",
+    "source": "json",
+    "jp": "いろは",
+    "star": "★3"
+  },
+  {
+    "title": "漆夜之魔女",
+    "name": "伊妮什",
+    "source": "json",
+    "jp": "イニシュ",
+    "star": "★3"
+  },
+  {
+    "title": "剑指最强的泳装剑士",
+    "name": "英格丽特",
+    "source": "json",
+    "jp": "イングリット",
+    "star": "★3"
+  },
+  {
+    "title": "渴望的武斗天使",
+    "name": "英格丽特",
+    "source": "json",
+    "jp": "イングリッド",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "萤火",
+    "source": "json",
+    "jp": "蛍火",
+    "star": "★1"
+  },
+  {
+    "title": "烈火厨师",
+    "name": "萤火",
+    "source": "user",
+    "jp": "蛍火",
+    "star": "★1"
+  },
+  {
+    "title": "",
+    "name": "托瓦老师",
+    "source": "user",
+    "jp": "トワ先生",
+    "star": "★2"
+  },
+  {
+    "title": "暮色初恋",
+    "name": "托瓦老师",
+    "source": "user",
+    "jp": "トワ先生",
+    "star": "★2"
+  },
+  {
+    "title": "水星的花嫁",
+    "name": "托瓦老师",
+    "source": "user",
+    "jp": "トワ先生",
+    "star": "★2"
+  },
+  {
+    "title": "黎明的指引者",
+    "name": "托瓦老师",
+    "source": "user",
+    "jp": "トワ先生",
+    "star": "★2"
+  },
+  {
+    "title": "黄昏的超新星",
+    "name": "托瓦老师《黎明》",
+    "source": "user",
+    "jp": "トワ先生《黎明》",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "悠米",
+    "source": "json",
+    "jp": "ヨミ",
+    "star": "★3"
+  },
+  {
+    "title": "圣铃的驯鹿",
+    "name": "悠米",
+    "source": "json",
+    "jp": "ヨミ",
+    "star": "★3"
+  },
+  {
+    "title": "狐巫女的婚礼",
+    "name": "悠米",
+    "source": "json",
+    "jp": "ヨミ",
+    "star": "★3"
+  },
+  {
+    "title": "爆裂破邪の巫女",
+    "name": "悠米",
+    "source": "user",
+    "jp": "ヨミ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "尤利斯",
+    "source": "json",
+    "jp": "ユーリス",
+    "star": "★3"
+  },
+  {
+    "title": "卡牌王子",
+    "name": "尤利斯",
+    "source": "json",
+    "jp": "ユーリス",
+    "star": "★3"
+  },
+  {
+    "title": "断魔圣剑",
+    "name": "尤利斯",
+    "source": "user",
+    "jp": "ユーリス",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "尤莉",
+    "source": "json",
+    "jp": "ユウリ",
+    "star": "★2"
+  },
+  {
+    "title": "骰子射手",
+    "name": "尤莉",
+    "source": "json",
+    "jp": "ユウリ",
+    "star": "★2"
+  },
+  {
+    "title": "庇护弱小的斧枪",
+    "name": "尤莉",
+    "source": "user",
+    "jp": "ユウリ",
+    "star": "★2"
+  },
+  {
+    "title": "智谋的漆黑微笑",
+    "name": "朱丽叶特",
+    "source": "json",
+    "jp": "ジュリエッテ",
+    "star": "★3"
+  },
+  {
+    "title": "",
+    "name": "朱莉",
+    "source": "json",
+    "jp": "ジュエリー",
+    "star": "★1"
+  },
+  {
+    "title": "阳伞的花嫁侦探",
+    "name": "朱莉",
+    "source": "json",
+    "jp": "ジュエリー",
+    "star": "★1"
+  },
+  {
+    "title": "星选的名侦探",
+    "name": "朱莉",
+    "source": "user",
+    "jp": "ジュエリー",
+    "star": "★1"
+  },
+  {
+    "title": "探究爱的阳伞侦探",
+    "name": "朱莉⟪究明⟫",
+    "source": "json",
+    "jp": "ジュエリー《究明》",
+    "star": "★3"
+  }
+]

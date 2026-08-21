@@ -2,7 +2,15 @@
     "speed": 0.5,
     "fps": 60,
     "translation": true,
+    "translationLang": "zh_Hans",
+    "translationApi": {
+        "enabled": false,
+        "url": "",
+        "key": "",
+        "model": "gpt-4o-mini"
+    },
     "width": 1280,
     "height": 720,
-    "zoom": 1.0
+    "zoom": 1.0,
+    "diagnostics": false
 }

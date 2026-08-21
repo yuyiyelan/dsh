@@ -1,3 +1,31 @@
+# build artifacts
 .vs/
 bin/
 obj/
+*.dll
+*.pdb
+NuGet/
+
+# archived one-off tools, API keys, raw data & generated outputs
+# (kept locally under tools/_archive, NEVER committed or shipped)
+tools/_archive/
+
+# large downloads (regeneration sources stay local)
+*.zip
+
+# diagnostics
+font/
+*.log
+
+# images (upstream screenshots)
+*.png
+
+# dotnet sdk downloads (local toolchain)
+.dotnet-sdk/
+.dotnet-sdk8/
+.dotnet-sdk.zip
+.dotnet-sdk8.zip
+.npm-cache/
+.electron-cache/
+.nuget-packages/
+.dotnet-home/

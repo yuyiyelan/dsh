@@ -1,0 +1,110 @@
+[
+ {
+  "name": "节奏榜",
+  "sheetId": "47",
+  "rid": "rId1",
+  "file": "sheet1.xml"
+ },
+ {
+  "name": "星骑士测评",
+  "sheetId": "48",
+  "rid": "rId2",
+  "file": "sheet2.xml"
+ },
+ {
+  "name": "sister测评",
+  "sheetId": "54",
+  "rid": "rId3",
+  "file": "sheet3.xml"
+ },
+ {
+  "name": "卡池建议",
+  "sheetId": "9",
+  "rid": "rId4",
+  "file": "sheet4.xml"
+ },
+ {
+  "name": "组队推荐",
+  "sheetId": "37",
+  "rid": "rId5",
+  "file": "sheet5.xml"
+ },
+ {
+  "name": "星骑士索引",
+  "sheetId": "51",
+  "rid": "rId6",
+  "file": "sheet6.xml"
+ },
+ {
+  "name": "常规星骑士图鉴",
+  "sheetId": "45",
+  "rid": "rId7",
+  "file": "sheet7.xml"
+ },
+ {
+  "name": "特殊星骑士图鉴",
+  "sheetId": "44",
+  "rid": "rId8",
+  "file": "sheet8.xml"
+ },
+ {
+  "name": "sister索引",
+  "sheetId": "35",
+  "rid": "rId9",
+  "file": "sheet9.xml"
+ },
+ {
+  "name": "sister图鉴",
+  "sheetId": "16",
+  "rid": "rId10",
+  "file": "sheet10.xml"
+ },
+ {
+  "name": "饰品附魔",
+  "sheetId": "55",
+  "rid": "rId11",
+  "file": "sheet11.xml"
+ },
+ {
+  "name": "装备索引",
+  "sheetId": "38",
+  "rid": "rId12",
+  "file": "sheet12.xml"
+ },
+ {
+  "name": "装备图鉴",
+  "sheetId": "32",
+  "rid": "rId13",
+  "file": "sheet13.xml"
+ },
+ {
+  "name": "Hard本掉落表",
+  "sheetId": "49",
+  "rid": "rId14",
+  "file": "sheet14.xml"
+ },
+ {
+  "name": "菲尼斯塔攻略",
+  "sheetId": "57",
+  "rid": "rId15",
+  "file": "sheet15.xml"
+ },
+ {
+  "name": "附录（杂谈）",
+  "sheetId": "10",
+  "rid": "rId16",
+  "file": "sheet16.xml"
+ },
+ {
+  "name": "总力战友情链接",
+  "sheetId": "53",
+  "rid": "rId17",
+  "file": "sheet17.xml"
+ },
+ {
+  "name": "WpsReserved_CellImgList",
+  "sheetId": "3",
+  "rid": "rId18",
+  "file": "sheet18.xml"
+ }
+]

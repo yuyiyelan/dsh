@@ -1,0 +1,3665 @@
+{
+ "ok": 129,
+ "diffs": [
+  {
+   "jp": "エリシア",
+   "current": "艾莉西雅",
+   "currentBase": "艾莉西雅",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト",
+   "current": "克洛托",
+   "currentBase": "克洛托",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ベガのクロト",
+   "current": "织女星的克洛托",
+   "currentBase": "织女星的克洛托",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マグダレナ",
+   "current": "玛古达蕾娜",
+   "currentBase": "玛古达蕾娜",
+   "bwiki": "玛格妲蕾娜",
+   "src": "bracket"
+  },
+  {
+   "jp": "マグダレナ（幼少）",
+   "current": "玛古达蕾娜（幼少）",
+   "currentBase": "玛古达蕾娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "大人ダレナ",
+   "current": "大人达莉娜",
+   "currentBase": "大人达莉娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マグダレナ×２",
+   "current": "玛格达莉娜×２",
+   "currentBase": "玛格达莉娜×２",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マトイ",
+   "current": "玛托伊",
+   "currentBase": "玛托伊",
+   "bwiki": "玛托依",
+   "src": "plain"
+  },
+  {
+   "jp": "マトイ（覚醒）",
+   "current": "玛托伊（觉醒）",
+   "currentBase": "玛托伊",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "キリカ",
+   "current": "琪莉卡",
+   "currentBase": "琪莉卡",
+   "bwiki": "琪丽卡",
+   "src": "bracket"
+  },
+  {
+   "jp": "ユウリ",
+   "current": "优莉",
+   "currentBase": "优莉",
+   "bwiki": "尤莉",
+   "src": "plain"
+  },
+  {
+   "jp": "トワ先生",
+   "current": "托瓦老师",
+   "currentBase": "托瓦老师",
+   "bwiki": "永远老师",
+   "src": "plain"
+  },
+  {
+   "jp": "トワ先生（覚醒）",
+   "current": "托瓦老师（觉醒）",
+   "currentBase": "托瓦老师",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アルモたん",
+   "current": "小雅尔莫",
+   "currentBase": "小雅尔莫",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アルモ×２",
+   "current": "雅尔莫×２",
+   "currentBase": "雅尔莫×２",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クローデル",
+   "current": "克劳蒂尔",
+   "currentBase": "克劳蒂尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "汐ルカルカ",
+   "current": "汐露卡露卡",
+   "currentBase": "汐露卡露卡",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ルカルカ",
+   "current": "露卡露卡",
+   "currentBase": "露卡露卡",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シャロン",
+   "current": "夏珑",
+   "currentBase": "夏珑",
+   "bwiki": "莎隆",
+   "src": "plain"
+  },
+  {
+   "jp": "ミストリア",
+   "current": "米斯特莉亚",
+   "currentBase": "米斯特莉亚",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "コハルコ",
+   "current": "柯哈露可",
+   "currentBase": "柯哈露可",
+   "bwiki": "小春子",
+   "src": "bracket"
+  },
+  {
+   "jp": "コハルコ（覚醒）",
+   "current": "柯哈露可（觉醒）",
+   "currentBase": "柯哈露可",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シャルレーヌ",
+   "current": "夏露蕾努",
+   "currentBase": "夏露蕾努",
+   "bwiki": "夏蕾努",
+   "src": "plain"
+  },
+  {
+   "jp": "ディアーブル",
+   "current": "迪亚贝尔",
+   "currentBase": "迪亚贝尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クレシェンテ",
+   "current": "克雷森特",
+   "currentBase": "克雷森特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ウィステリア",
+   "current": "维斯特丽亚",
+   "currentBase": "维斯特丽亚",
+   "bwiki": "悠米",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "ウィステリア（覚醒）",
+   "current": "维斯特丽亚（觉醒）",
+   "currentBase": "维斯特丽亚",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "セルベラス",
+   "current": "克尔柏洛斯",
+   "currentBase": "克尔柏洛斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "バンデッド",
+   "current": "芭洁朵",
+   "currentBase": "芭洁朵",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "セナリィ",
+   "current": "赛娜里",
+   "currentBase": "赛娜里",
+   "bwiki": "赛娜丽",
+   "src": "plain"
+  },
+  {
+   "jp": "セナリィ（覚醒）",
+   "current": "赛娜里（觉醒）",
+   "currentBase": "赛娜里",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ヒルディオーネ",
+   "current": "希尔忒欧娜",
+   "currentBase": "希尔忒欧娜",
+   "bwiki": "希露迪欧涅",
+   "src": "plain"
+  },
+  {
+   "jp": "ヒルディオーネ（覚醒）",
+   "current": "希尔忒欧娜（觉醒）",
+   "currentBase": "希尔忒欧娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "サラン",
+   "current": "莎兰",
+   "currentBase": "莎兰",
+   "bwiki": "莎朗",
+   "src": "plain"
+  },
+  {
+   "jp": "イクシリオン",
+   "current": "伊克西利翁",
+   "currentBase": "伊克西利翁",
+   "bwiki": "安娜",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "グレゴール",
+   "current": "格雷戈尔",
+   "currentBase": "格雷戈尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "イニシュ",
+   "current": "伊妮修",
+   "currentBase": "伊妮修",
+   "bwiki": "伊妮什",
+   "src": "bracket"
+  },
+  {
+   "jp": "フェニエル",
+   "current": "菲尼艾尔",
+   "currentBase": "菲尼艾尔",
+   "bwiki": "菲妮艾尔",
+   "src": "plain"
+  },
+  {
+   "jp": "フェニエル（覚醒）",
+   "current": "菲尼艾尔（觉醒）",
+   "currentBase": "菲尼艾尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "サチ",
+   "current": "雷幸",
+   "currentBase": "雷幸",
+   "bwiki": "莎夏",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "サチ（覚醒）",
+   "current": "雷幸（觉醒）",
+   "currentBase": "雷幸",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "エスメラルダ",
+   "current": "艾斯梅拉露达",
+   "currentBase": "艾斯梅拉露达",
+   "bwiki": "莎夏",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "シーメイン",
+   "current": "丝梅儿",
+   "currentBase": "丝梅儿",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メルエル",
+   "current": "梅露艾尔",
+   "currentBase": "梅露艾尔",
+   "bwiki": "梅尔艾尔",
+   "src": "plain"
+  },
+  {
+   "jp": "メルエル（幼少）",
+   "current": "梅露艾尔（幼少）",
+   "currentBase": "梅露艾尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メルエル（覚醒）",
+   "current": "梅露艾尔（觉醒）",
+   "currentBase": "梅露艾尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "真竜マハムート",
+   "current": "真龙玛哈姆特",
+   "currentBase": "真龙玛哈姆特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "セドナ",
+   "current": "瑟多纳",
+   "currentBase": "瑟多纳",
+   "bwiki": "玛哈姆特",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "ユーリス",
+   "current": "尤里斯",
+   "currentBase": "尤里斯",
+   "bwiki": "艾丽丝",
+   "src": "plain"
+  },
+  {
+   "jp": "フォン・ジルラント",
+   "current": "冯・吉尔兰特",
+   "currentBase": "冯・吉尔兰特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "エルデリーゼ",
+   "current": "爱尔戴丽泽",
+   "currentBase": "爱尔戴丽泽",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "トリシャ",
+   "current": "特莉莎",
+   "currentBase": "特莉莎",
+   "bwiki": "悠米",
+   "src": "plain"
+  },
+  {
+   "jp": "アポテレスマティカ",
+   "current": "阿波特雷斯玛堤卡",
+   "currentBase": "阿波特雷斯玛堤卡",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リップル",
+   "current": "莉普露",
+   "currentBase": "莉普露",
+   "bwiki": "莉普尔",
+   "src": "bracket"
+  },
+  {
+   "jp": "レミカ",
+   "current": "蕾米卡",
+   "currentBase": "蕾米卡",
+   "bwiki": "雷米卡",
+   "src": "bracket"
+  },
+  {
+   "jp": "レミカ（幼少）",
+   "current": "蕾米卡（幼少）",
+   "currentBase": "蕾米卡",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ネイマール",
+   "current": "内玛尔",
+   "currentBase": "内玛尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ブラウン",
+   "current": "布朗",
+   "currentBase": "布朗",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "エルズワース",
+   "current": "埃尔斯沃思",
+   "currentBase": "埃尔斯沃思",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ロレンツェッティ",
+   "current": "罗伦泽蒂",
+   "currentBase": "罗伦泽蒂",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ラティエ",
+   "current": "拉特耶",
+   "currentBase": "拉特耶",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リア",
+   "current": "莉娅",
+   "currentBase": "莉娅",
+   "bwiki": "莉亚",
+   "src": "bracket"
+  },
+  {
+   "jp": "シン",
+   "current": "慎",
+   "currentBase": "慎",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "セシア",
+   "current": "赛西娅",
+   "currentBase": "赛西娅",
+   "bwiki": "塞西亚",
+   "src": "bracket"
+  },
+  {
+   "jp": "リノ",
+   "current": "璃诺",
+   "currentBase": "璃诺",
+   "bwiki": "莎夏",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "パルミエ",
+   "current": "帕露米尔",
+   "currentBase": "帕露米尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ダックワーズ",
+   "current": "达克瓦兹",
+   "currentBase": "达克瓦兹",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "デビルズホープ",
+   "current": "迪比路霍普",
+   "currentBase": "迪比路霍普",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ヘクセンハウス",
+   "current": "海克森豪斯",
+   "currentBase": "海克森豪斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "トリュファイナ",
+   "current": "特留法依娜",
+   "currentBase": "特留法依娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "パテル",
+   "current": "帕特露",
+   "currentBase": "帕特露",
+   "bwiki": "帕提尔",
+   "src": "bracket"
+  },
+  {
+   "jp": "プルちゃん",
+   "current": "普露",
+   "currentBase": "普露",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "グロリア",
+   "current": "古罗莉娅",
+   "currentBase": "古罗莉娅",
+   "bwiki": "格洛丽亚",
+   "src": "bracket"
+  },
+  {
+   "jp": "フェリシー",
+   "current": "芙莉希",
+   "currentBase": "芙莉希",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ヴァートリン",
+   "current": "瓦特琳",
+   "currentBase": "瓦特琳",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ヴァレリー",
+   "current": "瓦乐莉",
+   "currentBase": "瓦乐莉",
+   "bwiki": "巴蕾莉",
+   "src": "bracket"
+  },
+  {
+   "jp": "ヒヨ",
+   "current": "希佑",
+   "currentBase": "希佑",
+   "bwiki": "希祐",
+   "src": "bracket"
+  },
+  {
+   "jp": "イングリット",
+   "current": "英格丽德",
+   "currentBase": "英格丽德",
+   "bwiki": "奈泽麦茵",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "ジュリエッテ",
+   "current": "朱丽尔特",
+   "currentBase": "朱丽尔特",
+   "bwiki": "悠米",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "ミウ",
+   "current": "美游",
+   "currentBase": "美游",
+   "bwiki": "缪",
+   "src": "bracket"
+  },
+  {
+   "jp": "ジャクリーヌ",
+   "current": "杰克利努",
+   "currentBase": "杰克利努",
+   "bwiki": "杰奎琳",
+   "src": "bracket"
+  },
+  {
+   "jp": "シルヴィ",
+   "current": "希露比",
+   "currentBase": "希露比",
+   "bwiki": "希尔薇",
+   "src": "bracket"
+  },
+  {
+   "jp": "シュティレ",
+   "current": "修蒂蕾",
+   "currentBase": "修蒂蕾",
+   "bwiki": "施蒂勒",
+   "src": "bracket"
+  },
+  {
+   "jp": "ロクサーナ",
+   "current": "罗库纱娜",
+   "currentBase": "罗库纱娜",
+   "bwiki": "莎夏",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "ツェツィーリエ",
+   "current": "赛西莉",
+   "currentBase": "赛西莉",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ロロット",
+   "current": "洛洛特",
+   "currentBase": "洛洛特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ベアトリス",
+   "current": "贝尔特丽丝",
+   "currentBase": "贝尔特丽丝",
+   "bwiki": "贝阿朵莉丝",
+   "src": "bracket"
+  },
+  {
+   "jp": "レナーテ",
+   "current": "蕾娜特",
+   "currentBase": "蕾娜特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メテオラ",
+   "current": "梅特欧拉",
+   "currentBase": "梅特欧拉",
+   "bwiki": "奈泽麦茵",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "ミネコ",
+   "current": "美奈子",
+   "currentBase": "美奈子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クーシェン",
+   "current": "库莘",
+   "currentBase": "库莘",
+   "bwiki": "莉莉娅",
+   "src": "plain"
+  },
+  {
+   "jp": "トレジアンナ",
+   "current": "崔吉安娜",
+   "currentBase": "崔吉安娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "エステル",
+   "current": "爱思特露",
+   "currentBase": "爱思特露",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "レティシア",
+   "current": "蕾缇西娅",
+   "currentBase": "蕾缇西娅",
+   "bwiki": "安娜",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "リコリンフィア",
+   "current": "莉可琳菲娅",
+   "currentBase": "莉可琳菲娅",
+   "bwiki": "莉可林菲娅",
+   "src": "bracket"
+  },
+  {
+   "jp": "リコリン",
+   "current": "莉可琳",
+   "currentBase": "莉可琳",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シズル",
+   "current": "镜流",
+   "currentBase": "镜流",
+   "bwiki": "静流",
+   "src": "bracket"
+  },
+  {
+   "jp": "ルネア",
+   "current": "露涅娅",
+   "currentBase": "露涅娅",
+   "bwiki": "梅尔艾尔",
+   "src": "plain"
+  },
+  {
+   "jp": "ウルスラ",
+   "current": "乌鲁斯拉",
+   "currentBase": "乌鲁斯拉",
+   "bwiki": "乌尔斯拉",
+   "src": "bracket"
+  },
+  {
+   "jp": "エグザエル",
+   "current": "艾克赛尔",
+   "currentBase": "艾克赛尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ノルン",
+   "current": "诺伦",
+   "currentBase": "诺伦",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ルーシィ",
+   "current": "露西",
+   "currentBase": "露西",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ニャリオン",
+   "current": "喵莉昂",
+   "currentBase": "喵莉昂",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "パッキー",
+   "current": "帕奇",
+   "currentBase": "帕奇",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ジェラルド",
+   "current": "谢拉特",
+   "currentBase": "谢拉特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "セイファート",
+   "current": "锡菲德",
+   "currentBase": "锡菲德",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ギエル",
+   "current": "基尔",
+   "currentBase": "基尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リア＆聖沙",
+   "current": "莉亚＆圣沙",
+   "currentBase": "莉亚＆圣沙",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト＆ヴィーナス",
+   "current": "克洛托＆维纳斯",
+   "currentBase": "克洛托＆维纳斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト＆フィオナ",
+   "current": "克洛托＆菲欧娜",
+   "currentBase": "克洛托＆菲欧娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト＆梨緒",
+   "current": "克洛托＆梨绪",
+   "currentBase": "克洛托＆梨绪",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ユーリス・セーラ",
+   "current": "尤里斯＆莎拉",
+   "currentBase": "尤里斯＆莎拉",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シャロン・クロト",
+   "current": "莎朗＆克洛托",
+   "currentBase": "莎朗＆克洛托",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "フロレンシア？",
+   "current": "弗洛伦西亚？",
+   "currentBase": "弗洛伦西亚？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "フィオナ？",
+   "current": "菲欧娜？",
+   "currentBase": "菲欧娜？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アポロ？",
+   "current": "阿波罗？",
+   "currentBase": "阿波罗？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ウィステリア？",
+   "current": "紫藤花？",
+   "currentBase": "紫藤花？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マトイ＆アナ",
+   "current": "缠＆安娜",
+   "currentBase": "缠＆安娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ミウ＆ヒマワリ",
+   "current": "美优＆向日葵",
+   "currentBase": "美优＆向日葵",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ヒマワリ＆ミウ",
+   "current": "向日葵＆美优",
+   "currentBase": "向日葵＆美优",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "蘭美＆ヴィーナス",
+   "current": "兰美＆维纳斯",
+   "currentBase": "兰美＆维纳斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ロロット＆ルリエル",
+   "current": "萝露缇＆瑠璃艾尔",
+   "currentBase": "萝露缇＆瑠璃艾尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ルリエル？",
+   "current": "瑠璃艾尔？",
+   "currentBase": "瑠璃艾尔？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ソフィア＆リップル",
+   "current": "苏菲亚＆莉普",
+   "currentBase": "苏菲亚＆莉普",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リーリア＆サチ",
+   "current": "莉莉雅＆幸",
+   "currentBase": "莉莉雅＆幸",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リップル＆ソフィア",
+   "current": "莉普＆苏菲亚",
+   "currentBase": "莉普＆苏菲亚",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "煩悩クロト",
+   "current": "烦恼的克洛托",
+   "currentBase": "烦恼的克洛托",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ドッペルリエル",
+   "current": "瑠璃艾尔分身",
+   "currentBase": "瑠璃艾尔分身",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ソフィア＆ウズメイア",
+   "current": "苏菲亚＆乌兹梅亚",
+   "currentBase": "苏菲亚＆乌兹梅亚",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アポロ＆クロト",
+   "current": "阿波罗＆克洛托",
+   "currentBase": "阿波罗＆克洛托",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ベアトリス・アポロ",
+   "current": "碧翠丝＆阿波罗",
+   "currentBase": "碧翠丝＆阿波罗",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ダブルヘレナ",
+   "current": "双海伦娜",
+   "currentBase": "双海伦娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "いろは",
+   "current": "彩花",
+   "currentBase": "彩花",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "オムニス",
+   "current": "奥姆尼斯",
+   "currentBase": "奥姆尼斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "とびお",
+   "current": "托比奥",
+   "currentBase": "托比奥",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アラクネ",
+   "current": "阿拉克涅",
+   "currentBase": "阿拉克涅",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "プルちゃん？",
+   "current": "普露？",
+   "currentBase": "普露？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "大人アルモ",
+   "current": "大人雅尔莫",
+   "currentBase": "大人雅尔莫",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "パテル？",
+   "current": "帕提露？",
+   "currentBase": "帕提露？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "みんな",
+   "current": "大家",
+   "currentBase": "大家",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "チャラい男",
+   "current": "轻浮男",
+   "currentBase": "轻浮男",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "おじさん",
+   "current": "叔叔",
+   "currentBase": "叔叔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "おばあさん",
+   "current": "祖母",
+   "currentBase": "祖母",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女子生徒Ａ",
+   "current": "女学生A",
+   "currentBase": "女学生A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女子生徒Ｂ",
+   "current": "女学生B",
+   "currentBase": "女学生B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女子生徒Ｃ",
+   "current": "女学生C",
+   "currentBase": "女学生C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ツツミ",
+   "current": "津津米",
+   "currentBase": "津津米",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ギャル風の女",
+   "current": "辣妹",
+   "currentBase": "辣妹",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "屋台の店主",
+   "current": "店主",
+   "currentBase": "店主",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ゆーちゃん",
+   "current": "小优",
+   "currentBase": "小优",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "お姉さん",
+   "current": "大姐姐",
+   "currentBase": "大姐姐",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女の子",
+   "current": "女子",
+   "currentBase": "女子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女子生徒",
+   "current": "女学生",
+   "currentBase": "女学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "男子生徒",
+   "current": "男学生",
+   "currentBase": "男学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "キャッピー",
+   "current": "卡比",
+   "currentBase": "卡比",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ナツコ",
+   "current": "夏子",
+   "currentBase": "夏子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "トウコ",
+   "current": "冬子",
+   "currentBase": "冬子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ダブルアニマ",
+   "current": "双重阿妮玛",
+   "currentBase": "双重阿妮玛",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "派手な女生徒",
+   "current": "华丽的女学生",
+   "currentBase": "华丽的女学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "地味な女生徒",
+   "current": "朴素的女学生",
+   "currentBase": "朴素的女学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "小さな女の子",
+   "current": "小女孩",
+   "currentBase": "小女孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "心配性の女生徒",
+   "current": "焦虑的女学生",
+   "currentBase": "焦虑的女学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "噂好きの女生徒",
+   "current": "造谣的女学生",
+   "currentBase": "造谣的女学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "カフェの店長",
+   "current": "咖啡店店长",
+   "currentBase": "咖啡店店长",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "モンスター",
+   "current": "怪物",
+   "currentBase": "怪物",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ミネルバ",
+   "current": "米涅露瓦",
+   "currentBase": "米涅露瓦",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ミーちゃん",
+   "current": "小米",
+   "currentBase": "小米",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "チンピラ",
+   "current": "不良少年",
+   "currentBase": "不良少年",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "軽薄な男子生徒",
+   "current": "轻浮的男学生",
+   "currentBase": "轻浮的男学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星寮の１年生",
+   "current": "流星宿舍的1年级生",
+   "currentBase": "流星宿舍的1年级生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星寮の２年生",
+   "current": "流星宿舍的2年级生",
+   "currentBase": "流星宿舍的2年级生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "施設アナウンス",
+   "current": "设施公告",
+   "currentBase": "设施公告",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "スミカ",
+   "current": "斯米卡",
+   "currentBase": "斯米卡",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ザコモンスター",
+   "current": "杂鱼怪物",
+   "currentBase": "杂鱼怪物",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ネビュラ隊員Ａ",
+   "current": "星云队员A",
+   "currentBase": "星云队员A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ネビュラ隊員Ｂ",
+   "current": "星云队员B",
+   "currentBase": "星云队员B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属生",
+   "current": "附属学生",
+   "currentBase": "附属学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "若い女性",
+   "current": "年轻的女子",
+   "currentBase": "年轻的女子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アム母",
+   "current": "亚梦母亲",
+   "currentBase": "亚梦母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "迷子の子供",
+   "current": "迷路的小孩",
+   "currentBase": "迷路的小孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シショー",
+   "current": "师傅",
+   "currentBase": "师傅",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "オクサン",
+   "current": "大婶",
+   "currentBase": "大婶",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "依頼人の女生徒",
+   "current": "委托人的女学生",
+   "currentBase": "委托人的女学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "老婦人",
+   "current": "老太太",
+   "currentBase": "老太太",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "男の子",
+   "current": "男子",
+   "currentBase": "男子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "叫ぶ女性",
+   "current": "尖叫的女人",
+   "currentBase": "尖叫的女人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "取り残された子",
+   "current": "被遗留的小孩",
+   "currentBase": "被遗留的小孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クラスの女子Ａ",
+   "current": "班上的女孩A",
+   "currentBase": "班上的女孩A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クラスの女子Ｂ",
+   "current": "班上的女孩B",
+   "currentBase": "班上的女孩B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "教頭",
+   "current": "副校长",
+   "currentBase": "副校长",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "飢えたモンスターＡ",
+   "current": "饥饿的怪物A",
+   "currentBase": "饥饿的怪物A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "飢えたモンスターＢ",
+   "current": "饥饿的怪物B",
+   "currentBase": "饥饿的怪物B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "生徒Ａ",
+   "current": "学生A",
+   "currentBase": "学生A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "生徒Ｂ",
+   "current": "学生B",
+   "currentBase": "学生B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "生徒Ｃ",
+   "current": "学生C",
+   "currentBase": "学生C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "逃げてくる女性Ａ",
+   "current": "逃跑的女人A",
+   "currentBase": "逃跑的女人A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "逃げてくる女性Ｂ",
+   "current": "逃跑的女人B",
+   "currentBase": "逃跑的女人B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "逃げてくる女性Ｃ",
+   "current": "逃跑的女人C",
+   "currentBase": "逃跑的女人C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "不思議な機械？",
+   "current": "不可思议的机械?",
+   "currentBase": "不可思议的机械?",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ガードマンＡ",
+   "current": "保全A",
+   "currentBase": "保全A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ガードマンＢ",
+   "current": "保全B",
+   "currentBase": "保全B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ガーディアン・オルサ",
+   "current": "守护者・奥尔沙",
+   "currentBase": "守护者・奥尔沙",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新聞部の女子",
+   "current": "新闻部的女子",
+   "currentBase": "新闻部的女子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "張り切った女子",
+   "current": "热情的女子",
+   "currentBase": "热情的女子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ガーディアン",
+   "current": "守护者",
+   "currentBase": "守护者",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "泣いている子ども",
+   "current": "哭泣的小孩",
+   "currentBase": "哭泣的小孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子の母親",
+   "current": "小孩的母亲",
+   "currentBase": "小孩的母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "煌竜ヴィライア",
+   "current": "煌龙维拉亚",
+   "currentBase": "煌龙维拉亚",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "狒々の魔獣",
+   "current": "凶猛的魔兽",
+   "currentBase": "凶猛的魔兽",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "レゾフの住人",
+   "current": "雷佐夫居民",
+   "currentBase": "雷佐夫居民",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リタおばさん",
+   "current": "丽塔阿姨",
+   "currentBase": "丽塔阿姨",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "鹿の魔獣",
+   "current": "鹿形魔兽",
+   "currentBase": "鹿形魔兽",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "狼型の魔獣",
+   "current": "狼型魔兽",
+   "currentBase": "狼型魔兽",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "雪男の魔獣",
+   "current": "雪人魔兽",
+   "currentBase": "雪人魔兽",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "警官Ａ",
+   "current": "警员A",
+   "currentBase": "警员A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "警官Ｂ",
+   "current": "警员B",
+   "currentBase": "警员B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マルキア",
+   "current": "玛露琪亚",
+   "currentBase": "玛露琪亚",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リスの使い魔",
+   "current": "松鼠使魔",
+   "currentBase": "松鼠使魔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "イルソーレ寮生",
+   "current": "伊露索雷宿舍学生",
+   "currentBase": "伊露索雷宿舍学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "スミス",
+   "current": "史密斯",
+   "currentBase": "史密斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ロストアイテム",
+   "current": "失落之物",
+   "currentBase": "失落之物",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メルクリウス",
+   "current": "墨丘利",
+   "currentBase": "墨丘利",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女生徒Ａ",
+   "current": "女学生A",
+   "currentBase": "女学生A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女生徒Ｂ",
+   "current": "女学生B",
+   "currentBase": "女学生B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女生徒Ｃ",
+   "current": "女学生C",
+   "currentBase": "女学生C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メイドさん",
+   "current": "女仆",
+   "currentBase": "女仆",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女生徒",
+   "current": "女学生",
+   "currentBase": "女学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ケバブ屋",
+   "current": "烤肉店",
+   "currentBase": "烤肉店",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メジェド",
+   "current": "梅杰德",
+   "currentBase": "梅杰德",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "学生",
+   "current": "学生",
+   "currentBase": "学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "サラリーマン",
+   "current": "职员",
+   "currentBase": "职员",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ファン",
+   "current": "粉丝",
+   "currentBase": "粉丝",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ファン？",
+   "current": "粉丝?",
+   "currentBase": "粉丝?",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "犬？",
+   "current": "狗?",
+   "currentBase": "狗?",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ゾンビ犬",
+   "current": "僵尸狗",
+   "currentBase": "僵尸狗",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "２人",
+   "current": "2人",
+   "currentBase": "2人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "キャナンシー",
+   "current": "卡南茜",
+   "currentBase": "卡南茜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星学園１年生",
+   "current": "流星学园1年级生",
+   "currentBase": "流星学园1年级生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新星学園２年生",
+   "current": "流星学园2年级生",
+   "currentBase": "流星学园2年级生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星学園附属校３年生",
+   "current": "流星学园附属学校3年级生",
+   "currentBase": "流星学园附属学校3年级生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ジャック",
+   "current": "杰克",
+   "currentBase": "杰克",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "同級生Ａ",
+   "current": "同学A",
+   "currentBase": "同学A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "同級生Ｂ",
+   "current": "同学B",
+   "currentBase": "同学B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ゴーレム？",
+   "current": "哥雷姆?",
+   "currentBase": "哥雷姆?",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ゴーレム",
+   "current": "哥雷姆",
+   "currentBase": "哥雷姆",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "フェリーチェ",
+   "current": "菲莉丝",
+   "currentBase": "菲莉丝",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "偽物",
+   "current": "冒牌货",
+   "currentBase": "冒牌货",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子どもＡ",
+   "current": "小孩A",
+   "currentBase": "小孩A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子どもＢ",
+   "current": "小孩B",
+   "currentBase": "小孩B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子どもＣ",
+   "current": "小孩C",
+   "currentBase": "小孩C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ラクシス",
+   "current": "拉克西斯",
+   "currentBase": "拉克西斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ディノレオン",
+   "current": "迪诺利昂",
+   "currentBase": "迪诺利昂",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "敗残の亡霊",
+   "current": "战败的亡灵",
+   "currentBase": "战败的亡灵",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "テルル",
+   "current": "堤露露",
+   "currentBase": "堤露露",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ディアナ",
+   "current": "戴安娜",
+   "currentBase": "戴安娜",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ナンパ男",
+   "current": "搭讪男",
+   "currentBase": "搭讪男",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クラスメイト達",
+   "current": "同学们",
+   "currentBase": "同学们",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属校女子Ａ",
+   "current": "附属学校女子A",
+   "currentBase": "附属学校女子A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属校男子Ｂ",
+   "current": "附属学校男子B",
+   "currentBase": "附属学校男子B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属校男子Ｃ",
+   "current": "附属学校男子C",
+   "currentBase": "附属学校男子C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属校女子Ｄ",
+   "current": "附属学校女子D",
+   "currentBase": "附属学校女子D",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "お婆さん",
+   "current": "老婆婆",
+   "currentBase": "老婆婆",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "逃げ惑う市民Ａ",
+   "current": "逃跑的市民A",
+   "currentBase": "逃跑的市民A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "逃げ惑う市民Ｂ",
+   "current": "逃跑的市民B",
+   "currentBase": "逃跑的市民B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "逃げ惑う市民Ｃ",
+   "current": "逃跑的市民C",
+   "currentBase": "逃跑的市民C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ナオミ",
+   "current": "娜奥美",
+   "currentBase": "娜奥美",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "司会",
+   "current": "司仪",
+   "currentBase": "司仪",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "参加者１",
+   "current": "参加者1",
+   "currentBase": "参加者1",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "参加者２",
+   "current": "参加者2",
+   "currentBase": "参加者2",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "インタビュアー",
+   "current": "面试官",
+   "currentBase": "面试官",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "プロデューサー",
+   "current": "制作人",
+   "currentBase": "制作人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女の子の祖父",
+   "current": "女孩的祖父",
+   "currentBase": "女孩的祖父",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "避難する女性",
+   "current": "避难的女人",
+   "currentBase": "避难的女人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "馬人型モンスター",
+   "current": "马人型怪物",
+   "currentBase": "马人型怪物",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "教皇庁の衛兵Ａ",
+   "current": "教皇厅的卫兵A",
+   "currentBase": "教皇厅的卫兵A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "教皇庁の衛兵Ｂ",
+   "current": "教皇厅的卫兵B",
+   "currentBase": "教皇厅的卫兵B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "喜ぶ市民",
+   "current": "快乐的市民",
+   "currentBase": "快乐的市民",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔神ギエル",
+   "current": "魔神基尔",
+   "currentBase": "魔神基尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "モンスターＡ",
+   "current": "怪物A",
+   "currentBase": "怪物A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "モンスターＢ",
+   "current": "怪物B",
+   "currentBase": "怪物B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "飢えたモンスターA",
+   "current": "饥饿的怪物A",
+   "currentBase": "饥饿的怪物A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "飢えたモンスターB",
+   "current": "饥饿的怪物B",
+   "currentBase": "饥饿的怪物B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ネビュラ",
+   "current": "星云",
+   "currentBase": "星云",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ネビュラ隊員",
+   "current": "星云队员",
+   "currentBase": "星云队员",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子ども園の先生",
+   "current": "幼儿园教师",
+   "currentBase": "幼儿园教师",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "近所の子ども",
+   "current": "邻居的小孩",
+   "currentBase": "邻居的小孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "眠りの少女",
+   "current": "沉睡的少女",
+   "currentBase": "沉睡的少女",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "生徒D",
+   "current": "学生D",
+   "currentBase": "学生D",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "生徒E",
+   "current": "学生E",
+   "currentBase": "学生E",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "生徒F",
+   "current": "学生F",
+   "currentBase": "学生F",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "３人",
+   "current": "3人",
+   "currentBase": "3人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "地元の住人Ａ",
+   "current": "当地居民A",
+   "currentBase": "当地居民A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "地元の住人Ｂ",
+   "current": "当地居民B",
+   "currentBase": "当地居民B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "地元の住人Ｃ",
+   "current": "当地居民C",
+   "currentBase": "当地居民C",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マトイ母",
+   "current": "缠的母亲",
+   "currentBase": "缠的母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マトイ父",
+   "current": "缠的父亲",
+   "currentBase": "缠的父亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クラスの女子",
+   "current": "班上的女孩",
+   "currentBase": "班上的女孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女子",
+   "current": "女子",
+   "currentBase": "女子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "男子",
+   "current": "男子",
+   "currentBase": "男子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女性客",
+   "current": "女性客人",
+   "currentBase": "女性客人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "水着フワッチ",
+   "current": "泳装毛茸怪",
+   "currentBase": "泳装毛茸怪",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子どもたち",
+   "current": "孩子们",
+   "currentBase": "孩子们",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子ども",
+   "current": "孩子",
+   "currentBase": "孩子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "学生Ａ",
+   "current": "学生Ａ",
+   "currentBase": "学生Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "学生Ｂ",
+   "current": "学生Ｂ",
+   "currentBase": "学生Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新入生Ａ",
+   "current": "新生Ａ",
+   "currentBase": "新生Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新入生Ｂ",
+   "current": "新生Ｂ",
+   "currentBase": "新生Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "幽霊",
+   "current": "幽灵",
+   "currentBase": "幽灵",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ディーちゃん",
+   "current": "迪酱",
+   "currentBase": "迪酱",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ディーラック",
+   "current": "迪拉克",
+   "currentBase": "迪拉克",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シズハの姉",
+   "current": "静羽的姐姐",
+   "currentBase": "静羽的姐姐",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女性スタッフ",
+   "current": "女员工",
+   "currentBase": "女员工",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新星学園星騎士",
+   "current": "新星学园星骑士",
+   "currentBase": "新星学园星骑士",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "湖の魔女",
+   "current": "湖之魔女",
+   "currentBase": "湖之魔女",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "鏡像",
+   "current": "镜像",
+   "currentBase": "镜像",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "九浄家メイド隊",
+   "current": "九净家女仆队",
+   "currentBase": "九净家女仆队",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属生Ａ",
+   "current": "附属学生A",
+   "currentBase": "附属学生A",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属生Ｂ",
+   "current": "附属学生B",
+   "currentBase": "附属学生B",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "密売人",
+   "current": "走私者",
+   "currentBase": "走私者",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "横領犯",
+   "current": "贪污犯",
+   "currentBase": "贪污犯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "附属校３年生",
+   "current": "附属学校3年级生",
+   "currentBase": "附属学校3年级生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "運動部の後輩",
+   "current": "运动部的后辈",
+   "currentBase": "运动部的后辈",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "文系の後輩",
+   "current": "文组的后辈",
+   "currentBase": "文组的后辈",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ギャル系同級生",
+   "current": "辣妹同学",
+   "currentBase": "辣妹同学",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "男の子の父",
+   "current": "男子的父亲",
+   "currentBase": "男子的父亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "若い男",
+   "current": "年轻的男子",
+   "currentBase": "年轻的男子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ギガンドム",
+   "current": "吉高达",
+   "currentBase": "吉高达",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アニマの師",
+   "current": "阿妮玛的师父",
+   "currentBase": "阿妮玛的师父",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女学生Ａ",
+   "current": "女学生Ａ",
+   "currentBase": "女学生Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女学生Ｂ",
+   "current": "女学生Ｂ",
+   "currentBase": "女学生Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "監督",
+   "current": "监督",
+   "currentBase": "监督",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "部長？",
+   "current": "部长？",
+   "currentBase": "部长？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ベンヴォーリオ",
+   "current": "班福留",
+   "currentBase": "班福留",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "乳母",
+   "current": "乳母",
+   "currentBase": "乳母",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ジュリエット",
+   "current": "茱丽叶",
+   "currentBase": "茱丽叶",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マーキューシオ",
+   "current": "莫枯修",
+   "currentBase": "莫枯修",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ロレンス神父",
+   "current": "劳伦斯神父",
+   "currentBase": "劳伦斯神父",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ルルカ母",
+   "current": "露露卡母亲",
+   "currentBase": "露露卡母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "フェニックス",
+   "current": "凤凰",
+   "currentBase": "凤凰",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メイド",
+   "current": "女仆",
+   "currentBase": "女仆",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "人力車の兄貴",
+   "current": "人力车大哥",
+   "currentBase": "人力车大哥",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クマロボ",
+   "current": "熊机器人",
+   "currentBase": "熊机器人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "館長",
+   "current": "馆长",
+   "currentBase": "馆长",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "黒ベア子",
+   "current": "黑贝亚子",
+   "currentBase": "黑贝亚子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ベア子",
+   "current": "贝亚子",
+   "currentBase": "贝亚子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "雪女",
+   "current": "雪女",
+   "currentBase": "雪女",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "迷子",
+   "current": "迷路的小孩",
+   "currentBase": "迷路的小孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト１",
+   "current": "克洛托１",
+   "currentBase": "克洛托１",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト２",
+   "current": "克洛托２",
+   "currentBase": "克洛托２",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト３",
+   "current": "克洛托３",
+   "currentBase": "克洛托３",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロト４",
+   "current": "克洛托４",
+   "currentBase": "克洛托４",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星寮の女子",
+   "current": "流星宿舍的女生",
+   "currentBase": "流星宿舍的女生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子犬",
+   "current": "小狗",
+   "currentBase": "小狗",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ユニバース",
+   "current": "宇宙",
+   "currentBase": "宇宙",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ラーメン店主",
+   "current": "拉面店店主",
+   "currentBase": "拉面店店主",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "店員たち",
+   "current": "店员们",
+   "currentBase": "店员们",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "受付のお姉さん",
+   "current": "接待姊姊",
+   "currentBase": "接待姊姊",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "若い男性",
+   "current": "年轻男性",
+   "currentBase": "年轻男性",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ダッチ",
+   "current": "达奇",
+   "currentBase": "达奇",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女性の声",
+   "current": "女之声",
+   "currentBase": "女之声",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "男性の声",
+   "current": "男之声",
+   "currentBase": "男之声",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "幼い梨緒",
+   "current": "年幼的梨绪",
+   "currentBase": "年幼的梨绪",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "コハルコ母",
+   "current": "小春子母亲",
+   "currentBase": "小春子母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "コハルコ父",
+   "current": "小春子父亲",
+   "currentBase": "小春子父亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新人メイド",
+   "current": "新人女仆",
+   "currentBase": "新人女仆",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "お客さん？",
+   "current": "客人？",
+   "currentBase": "客人？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "イザベラ",
+   "current": "伊莎贝拉",
+   "currentBase": "伊莎贝拉",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "幼いレイラ",
+   "current": "年幼的蕾拉",
+   "currentBase": "年幼的蕾拉",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "レイラ母",
+   "current": "蕾拉母亲",
+   "currentBase": "蕾拉母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "レイラ父",
+   "current": "蕾拉父亲",
+   "currentBase": "蕾拉父亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "数年前のレイラ",
+   "current": "数年前的蕾拉",
+   "currentBase": "数年前的蕾拉",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "明鈴",
+   "current": "明铃",
+   "currentBase": "明铃",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "牛魔王",
+   "current": "牛魔王",
+   "currentBase": "牛魔王",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "生徒たち",
+   "current": "学生",
+   "currentBase": "学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "通行人Ａ",
+   "current": "路人Ａ",
+   "currentBase": "路人Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "通行人Ｂ",
+   "current": "路人Ｂ",
+   "currentBase": "路人Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アナウンス",
+   "current": "公告",
+   "currentBase": "公告",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "噂する生徒",
+   "current": "在闲聊的学生",
+   "currentBase": "在闲聊的学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ファンの女子Ａ",
+   "current": "女粉丝Ａ",
+   "currentBase": "女粉丝Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ファンの女子Ｂ",
+   "current": "女粉丝Ｂ",
+   "currentBase": "女粉丝Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ウェイトレス",
+   "current": "女服务生",
+   "currentBase": "女服务生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "怪しい男性",
+   "current": "可疑的男子",
+   "currentBase": "可疑的男子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ヤハト",
+   "current": "亚哈特",
+   "currentBase": "亚哈特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "チャラ男Ａ",
+   "current": "轻浮男",
+   "currentBase": "轻浮男",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "チャラ男Ｂ",
+   "current": "轻浮男",
+   "currentBase": "轻浮男",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "部下の怪人",
+   "current": "部下的怪人",
+   "currentBase": "部下的怪人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "部下の怪人達",
+   "current": "部下的怪人",
+   "currentBase": "部下的怪人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "部下の怪人たち",
+   "current": "部下的怪人",
+   "currentBase": "部下的怪人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "観覧の女の子Ａ",
+   "current": "参观的女子Ａ",
+   "currentBase": "参观的女子Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "観覧の女の子Ｂ",
+   "current": "参观的女子Ｂ",
+   "currentBase": "参观的女子Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子供たち",
+   "current": "孩子们",
+   "currentBase": "孩子们",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "村の女の子",
+   "current": "村中的女子",
+   "currentBase": "村中的女子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "さつき",
+   "current": "咲月",
+   "currentBase": "咲月",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ちとせ",
+   "current": "千岁",
+   "currentBase": "千岁",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "管理システム",
+   "current": "管理系统",
+   "currentBase": "管理系统",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ヴィライア",
+   "current": "维拉亚",
+   "currentBase": "维拉亚",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "男の声",
+   "current": "男子的声音",
+   "currentBase": "男子的声音",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子どもの声",
+   "current": "孩子的声音",
+   "currentBase": "孩子的声音",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の声",
+   "current": "魔族的声音",
+   "currentBase": "魔族的声音",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女の声",
+   "current": "女子的声音",
+   "currentBase": "女子的声音",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ガーディアン・オルサレクス",
+   "current": "守护者・奥塔莱克斯",
+   "currentBase": "守护者・奥塔莱克斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "フェアリー",
+   "current": "妖精",
+   "currentBase": "妖精",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "応援団員",
+   "current": "应援团员",
+   "currentBase": "应援团员",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星生徒Ａ",
+   "current": "流星学生Ａ",
+   "currentBase": "流星学生Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星生徒Ｂ",
+   "current": "流星学生Ｂ",
+   "currentBase": "流星学生Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新星陸上部",
+   "current": "新星田径部",
+   "currentBase": "新星田径部",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ホウちゃん",
+   "current": "小凤",
+   "currentBase": "小凤",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "寮生Ａ",
+   "current": "宿舍学生Ａ",
+   "currentBase": "宿舍学生Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "寮生Ｂ",
+   "current": "宿舍学生Ｂ",
+   "currentBase": "宿舍学生Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "寮生Ｃ",
+   "current": "宿舍学生Ｃ",
+   "currentBase": "宿舍学生Ｃ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "寮生Ｄ",
+   "current": "宿舍学生Ｄ",
+   "currentBase": "宿舍学生Ｄ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "寮生Ｅ",
+   "current": "宿舍学生Ｅ",
+   "currentBase": "宿舍学生Ｅ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ナターシャの母",
+   "current": "娜塔莎母亲",
+   "currentBase": "娜塔莎母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星寮の寮生",
+   "current": "流星宿舍的宿舍学生",
+   "currentBase": "流星宿舍的宿舍学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "雪だるま？",
+   "current": "雪人？",
+   "currentBase": "雪人？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "スノーマンL",
+   "current": "雪人L",
+   "currentBase": "雪人L",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "スノーマン",
+   "current": "雪人",
+   "currentBase": "雪人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "巨大スノーマン",
+   "current": "巨大的雪人",
+   "currentBase": "巨大的雪人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ブランコに乗る男子",
+   "current": "荡秋千的男孩",
+   "currentBase": "荡秋千的男孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ブランコに乗る女子",
+   "current": "荡秋千的女孩",
+   "currentBase": "荡秋千的女孩",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ラルク",
+   "current": "拉尔克",
+   "currentBase": "拉尔克",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女学生Ｃ",
+   "current": "女学生Ｃ",
+   "currentBase": "女学生Ｃ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "老信者",
+   "current": "老信徒",
+   "currentBase": "老信徒",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "男性信者",
+   "current": "男信徒",
+   "currentBase": "男信徒",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "カコ",
+   "current": "佳子",
+   "currentBase": "佳子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "バレンタヒヒーン",
+   "current": "情人节马匹",
+   "currentBase": "情人节马匹",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星市国民",
+   "current": "流星市国民",
+   "currentBase": "流星市国民",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "天使の少女",
+   "current": "天使少女",
+   "currentBase": "天使少女",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の少女",
+   "current": "魔族少女",
+   "currentBase": "魔族少女",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の留学生",
+   "current": "魔族留学生",
+   "currentBase": "魔族留学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "サメ",
+   "current": "鲨鱼",
+   "currentBase": "鲨鱼",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "幽霊？",
+   "current": "幽灵",
+   "currentBase": "幽灵",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "赤ちゃんクマロボ",
+   "current": "小熊机器人",
+   "currentBase": "小熊机器人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の星騎士",
+   "current": "魔族星骑士",
+   "currentBase": "魔族星骑士",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "人間の星騎士",
+   "current": "人间星骑士",
+   "currentBase": "人间星骑士",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "神族の星騎士",
+   "current": "神族星骑士",
+   "currentBase": "神族星骑士",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "主人公",
+   "current": "主人公",
+   "currentBase": "主人公",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星学園生",
+   "current": "流学学园学生",
+   "currentBase": "流学学园学生",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "書き込み",
+   "current": "留言",
+   "currentBase": "留言",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星学園の生徒Ａ",
+   "current": "流学学园学生Ａ",
+   "currentBase": "流学学园学生Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "流星学園の生徒Ｂ",
+   "current": "流学学园学生Ｂ",
+   "currentBase": "流学学园学生Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "教団信者",
+   "current": "教团信徒",
+   "currentBase": "教团信徒",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "チナの母",
+   "current": "千奈母亲",
+   "currentBase": "千奈母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "チナの父",
+   "current": "千奈父亲",
+   "currentBase": "千奈父亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "グレイスの父",
+   "current": "格蕾西父亲",
+   "currentBase": "格蕾西父亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "グレイスの母",
+   "current": "格蕾西母亲",
+   "currentBase": "格蕾西母亲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "遊園地のスタッフ",
+   "current": "主题公园职员",
+   "currentBase": "主题公园职员",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "新星学園の女子",
+   "current": "新星学园的女子",
+   "currentBase": "新星学园的女子",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ホロウ・ルヴィネL",
+   "current": "空洞的露维妮L",
+   "currentBase": "空洞的露维妮L",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "赤ちゃんクマロボＢ",
+   "current": "小熊机器人Ｂ",
+   "currentBase": "小熊机器人Ｂ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "赤ちゃんクマロボＡ",
+   "current": "小熊机器人Ａ",
+   "currentBase": "小熊机器人Ａ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "２体の赤ちゃん",
+   "current": "两体的小熊",
+   "currentBase": "两体的小熊",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "赤ちゃんクマロボＣ",
+   "current": "小熊机器人Ｃ",
+   "currentBase": "小熊机器人Ｃ",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "大量の赤ちゃん",
+   "current": "大量的小熊",
+   "currentBase": "大量的小熊",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "超巨大Ａクマロボ",
+   "current": "超巨大Ａ熊机器人",
+   "currentBase": "超巨大Ａ熊机器人",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "見物人の男１",
+   "current": "男观众１",
+   "currentBase": "男观众１",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "見物人の男２",
+   "current": "男观众２",
+   "currentBase": "男观众２",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シャルル",
+   "current": "查尔斯",
+   "currentBase": "查尔斯",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ディーラー",
+   "current": "荷官",
+   "currentBase": "荷官",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ルヴィネ？",
+   "current": "露维妮？",
+   "currentBase": "露维妮？",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ホロウ・ルヴィネ",
+   "current": "空洞的露维妮",
+   "currentBase": "空洞的露维妮",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "極星学園の星騎士",
+   "current": "极星学园的星骑士",
+   "currentBase": "极星学园的星骑士",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "デネブ市民",
+   "current": "天津四市民",
+   "currentBase": "天津四市民",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": " ホロウ・ルヴィネ ",
+   "current": "空洞的露维妮",
+   "currentBase": "空洞的露维妮",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "エントロフィー",
+   "current": "恩特洛菲",
+   "currentBase": "恩特洛菲",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "エントロフィーL",
+   "current": "恩特洛菲L",
+   "currentBase": "恩特洛菲L",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "虚構の魔女",
+   "current": "虚构魔女",
+   "currentBase": "虚构魔女",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ジ・キルちゃん",
+   "current": "小杀",
+   "currentBase": "小杀",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "女性カメラマン",
+   "current": "女性摄影师",
+   "currentBase": "女性摄影师",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "子猫",
+   "current": "小猫",
+   "currentBase": "小猫",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "スタッフの女性",
+   "current": "女性员工",
+   "currentBase": "女性员工",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の女性",
+   "current": "魔族的女性",
+   "currentBase": "魔族的女性",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の男性",
+   "current": "魔族的男性",
+   "currentBase": "魔族的男性",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "リクリエの使徒",
+   "current": "利克里耶的使徒",
+   "currentBase": "利克里耶的使徒",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の星術使い",
+   "current": "魔族的占星师",
+   "currentBase": "魔族的占星师",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "厄災の右腕",
+   "current": "灾厄之右手",
+   "currentBase": "灾厄之右手",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "レイト",
+   "current": "雷特",
+   "currentBase": "雷特",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "爆弾ちゃん",
+   "current": "炸弹酱",
+   "currentBase": "炸弹酱",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "クロ猫",
+   "current": "黑猫",
+   "currentBase": "黑猫",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "極星従騎",
+   "current": "极星从骑",
+   "currentBase": "极星从骑",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "老人の魔族",
+   "current": "老人魔族",
+   "currentBase": "老人魔族",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "アネゴ",
+   "current": "大姊头",
+   "currentBase": "大姊头",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ネビュラの魔女",
+   "current": "星云魔女",
+   "currentBase": "星云魔女",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "衛兵隊の天使",
+   "current": "卫兵队天使",
+   "currentBase": "卫兵队天使",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ラストナンバー",
+   "current": "最终个体",
+   "currentBase": "最终个体",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の行商人１",
+   "current": "魔族小贩１",
+   "currentBase": "魔族小贩１",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族の行商人２",
+   "current": "魔族小贩２",
+   "currentBase": "魔族小贩２",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ボスモンスター",
+   "current": "魔兽首领",
+   "currentBase": "魔兽首领",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "魔族たち",
+   "current": "魔族",
+   "currentBase": "魔族",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ザタナーン",
+   "current": "札塔南",
+   "currentBase": "札塔南",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "メルエル《極光》",
+   "current": "梅露艾尔《极光》",
+   "currentBase": "梅露艾尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "レミカ(ちぃ)",
+   "current": "蕾米卡(小)",
+   "currentBase": "蕾米卡",
+   "bwiki": "雷米卡（幼）",
+   "src": "bracket"
+  },
+  {
+   "jp": "メルエル(ちぃ)",
+   "current": "梅露艾尔(小)",
+   "currentBase": "梅露艾尔",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "マグダレナ(ちぃ)",
+   "current": "玛古达蕾娜(小)",
+   "currentBase": "玛古达蕾娜",
+   "bwiki": "米露菲",
+   "src": "bracket"
+  },
+  {
+   "jp": "ヒルディオーネ《螺旋》",
+   "current": "希尔忒欧娜《螺旋》",
+   "currentBase": "希尔忒欧娜",
+   "bwiki": "希露迪欧涅",
+   "src": "plain"
+  },
+  {
+   "jp": "フェニエル《鳳凰》",
+   "current": "菲尼艾尔《凤凰》",
+   "currentBase": "菲尼艾尔",
+   "bwiki": "安娜",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "ウィステリア《怠惰》",
+   "current": "维斯特丽亚《怠惰》",
+   "currentBase": "维斯特丽亚",
+   "bwiki": "悠米",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "サチ《運命》",
+   "current": "雷幸《命运》",
+   "currentBase": "雷幸",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "コハルコ《光誕》",
+   "current": "柯哈露可《光诞》",
+   "currentBase": "柯哈露可",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "シェシィーリエ",
+   "current": "塞西莉娅",
+   "currentBase": "塞西莉娅",
+   "bwiki": "悠米",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "セナリィ《女帝》",
+   "current": "赛娜里《女帝》",
+   "currentBase": "赛娜里",
+   "bwiki": "赛娜丽《女帝》",
+   "src": "bracket"
+  },
+  {
+   "jp": "イングリッド",
+   "current": "英古丽多",
+   "currentBase": "英古丽多",
+   "bwiki": "奈泽麦茵",
+   "src": "loose-plain"
+  },
+  {
+   "jp": "マトイ《纏雷》",
+   "current": "玛托伊《缠雷》",
+   "currentBase": "玛托伊",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "トワ先生《黎明》",
+   "current": "托瓦老师",
+   "currentBase": "托瓦老师",
+   "bwiki": "菲奥娜",
+   "src": "plain"
+  },
+  {
+   "jp": "ラテイエ",
+   "current": "拉特耶",
+   "currentBase": "拉特耶",
+   "bwiki": "",
+   "src": "none"
+  },
+  {
+   "jp": "ウズメイヤ",
+   "current": "雾梓梅娅",
+   "currentBase": "雾梓梅娅",
+   "bwiki": "",
+   "src": "none"
+  }
+ ],
+ "bwikiOnly": [
+  "夏蕾努 (base=夏蕾努)",
+  "尤利斯 (base=尤利斯)",
+  "尤莉 (base=尤莉)",
+  "希露迪欧涅 (base=希露迪欧涅)",
+  "库洛特 (base=库洛特)",
+  "梅尔艾尔 (base=梅尔艾尔)",
+  "永远老师 (base=永远老师)",
+  "玛托依 (base=玛托依)",
+  "莎朗 (base=莎朗)",
+  "莎隆 (base=莎隆)",
+  "菲妮艾尔 (base=菲妮艾尔)",
+  "赛娜丽 (base=赛娜丽)",
+  "［\"境界\"守护者］玛格妲蕾娜 (base=玛格妲蕾娜)",
+  "［Magica2026］伊吕波 (base=伊吕波)",
+  "［一心一意的偶像］梅尔艾尔 (base=梅尔艾尔)",
+  "［万成的幼天使］塞西亚 (base=塞西亚)",
+  "［二代目・三太九郎］塞西亚 (base=塞西亚)",
+  "［二刀全能的巫女］玛托依 (base=玛托依)",
+  "［健全的海上休闲］伊克西里昂 (base=伊克西里昂)",
+  "［傲慢的演出家］罗克姗娜 (base=罗克姗娜)",
+  "［光与再生的魔女］特里菲娜 (base=特里菲娜)",
+  "［光速女仆之星］兰美 (base=兰美)",
+  "［兔兔圣诞老人］兰美 (base=兰美)",
+  "［冷酷司令官］塞德娜 (base=塞德娜)",
+  "［创世的星辰女神］露妮娅 (base=露妮娅)",
+  "［剑指最强的泳装剑士］英格丽特 (base=英格丽特)",
+  "［勇恋迈进］梅尔艾尔（幼） (base=梅尔艾尔)",
+  "［千变超化的战姬］希露迪欧涅《螺旋》 (base=希露迪欧涅)",
+  "［卖火柴的天使］菲妮艾尔 (base=菲妮艾尔)",
+  "［南瓜公主］莎朗 (base=莎朗)",
+  "［卡牌王子］尤利斯 (base=尤利斯)",
+  "［可爱风格］雷米卡 (base=雷米卡)",
+  "［司书的暑假］威斯缇利娅 (base=威斯缇利娅)",
+  "［吧唧吧唧妹妹］莉娜 (base=莉娜)",
+  "［境界的幼小化身］玛格妲蕾娜（幼） (base=玛格妲蕾娜)",
+  "［夏亦伴君］玛托依 (base=玛托依)",
+  "［夏日的白色闪光］艾尔狄丽洁 (base=艾尔狄丽洁)",
+  "［大师级女仆］琪丽卡 (base=琪丽卡)",
+  "［大欲的女帝］煌嶺 (base=煌嶺)",
+  "［女巫复制体］小春子《光诞》 (base=小春子)",
+  "［好人吸血鬼］贝阿朵莉丝 (base=贝阿朵莉丝)",
+  "［小小毒师］莉可林菲娅 (base=莉可林菲娅)",
+  "［小小的真心］雷米卡（幼） (base=雷米卡)",
+  "［幸运的魔法少女］幸 (base=幸)",
+  "［度假村制造者］莉普尔 (base=莉普尔)",
+  "［异乡的占星术师］特莉夏 (base=特莉夏)",
+  "［思欲情迷］伊克希里昂 (base=伊克希里昂)",
+  "［恶作剧风的魔女］艾琳 (base=艾琳)",
+  "［恶即斩强化者］赛娜丽《女帝》 (base=赛娜丽)",
+  "［恶姬兔视眈眈］赛娜丽 (base=赛娜丽)",
+  "［战岚的轰天使］希尔薇 (base=希尔薇)",
+  "［支配黑暗的魔将］威斯缇利娅《怠惰》 (base=威斯缇利娅)",
+  "［放浪野丫头］帕鲁米埃 (base=帕鲁米埃)",
+  "［敲级可爱］玛格妲蕾娜（幼） (base=玛格妲蕾娜)",
+  "［新婚少女］琪丽卡 (base=琪丽卡)",
+  "［新春加速器］索菲娅 (base=索菲娅)",
+  "［无秽祈愿］艾斯提尔 (base=艾斯提尔)",
+  "［星选的大怪盗］米涅可 (base=米涅可)",
+  "［星选的驱魔师］菲莉希 (base=菲莉希)",
+  "［智谋的漆黑微笑］朱丽叶特 (base=朱丽叶特)",
+  "［暮色初恋］永远老师 (base=永远老师)",
+  "［最后的坍缩星］蕾拉 (base=蕾拉)",
+  "［最幸的真魔法少女］幸《命运》 (base=幸)",
+  "［正义骇客］小春子 (base=小春子)",
+  "［比翼的不死鸟］菲妮艾尔《凤凰》 (base=菲妮艾尔)",
+  "［水星的花嫁］永远老师 (base=永远老师)",
+  "［江户的小巫女］希祐 (base=希祐)",
+  "［泳装伙伴］特莉夏 (base=特莉夏)",
+  "［海滩巫师］小春子 (base=小春子)",
+  "［海边猎人］琪莎娜 (base=琪莎娜)",
+  "［渴望的武斗天使］英格丽特 (base=英格丽特)",
+  "［漂泊的泳装剑士］拉缇耶 (base=拉缇耶)",
+  "［漂泊的破天荒］拉缇耶 (base=拉缇耶)",
+  "［漆夜之魔女］伊妮什 (base=伊妮什)",
+  "［漆黑之枪的大小姐］艾尔狄丽洁 (base=艾尔狄丽洁)",
+  "［潮音的坍缩星］蕾拉 (base=蕾拉)",
+  "［灵魂公主］杰奎琳 (base=杰奎琳)",
+  "［炎天下的凉魔女］塞德娜 (base=塞德娜)",
+  "［热带妈妈］莉诺 (base=莉诺)",
+  "［爆碎★破坏天使］梅忒欧拉 (base=梅忒欧拉)",
+  "［爱的传道者］乌尔斯拉 (base=乌尔斯拉)",
+  "［狂狮］琪莎娜 (base=琪莎娜)",
+  "［甜爱香氛］夏蕾努 (base=夏蕾努)",
+  "［甜蜜夏日］莎朗 (base=莎朗)",
+  "［甜蜜纯白］莎隆 (base=莎隆)",
+  "［电击热唱的歌姬］雷米卡 (base=雷米卡)",
+  "［疯狂魔女］塞西莉亚 (base=塞西莉亚)",
+  "［白兔的纯情］兰美 (base=兰美)",
+  "［破碎姐妹］莉娜 (base=莉娜)",
+  "［碧水的缪斯］萝萝特 (base=萝萝特)",
+  "［礼物就是我］莉普尔 (base=莉普尔)",
+  "［空间魔女］莉诺 (base=莉诺)",
+  "［笑面的合理主义者］缪 (base=缪)",
+  "［精力旺盛需关照］静流 (base=静流)",
+  "［精炼的机甲天使］施蒂勒 (base=施蒂勒)",
+  "［紫炎的咒剑士］蕾蒂西亚 (base=蕾蒂西亚)",
+  "［纯白修女］莎隆 (base=莎隆)",
+  "［织命灼炎］伊克希里昂 (base=伊克希里昂)",
+  "［绝对普遍的守护者］玛托依《缠雷》 (base=玛托依)",
+  "［美之亵渎者］巴蕾莉 (base=巴蕾莉)",
+  "［被黑暗诅咒之人］威斯缇利娅 (base=威斯缇利娅)",
+  "［誓约者新星］梅尔艾尔⟪极光⟫ (base=梅尔艾尔)",
+  "［计算过的旋律］艾丝梅拉妲 (base=艾丝梅拉妲)",
+  "［试炼的守护天使］帕提尔 (base=帕提尔)",
+  "［请抽签吧］特莉夏 (base=特莉夏)",
+  "［豪快捕鱼人］希尔薇 (base=希尔薇)",
+  "［赌博螺旋］希露迪欧涅 (base=希露迪欧涅)",
+  "［道士之友］特莉夏 (base=特莉夏)",
+  "［阳光吸血鬼］贝阿朵莉丝 (base=贝阿朵莉丝)",
+  "［静谧的祈祷者］格洛丽亚 (base=格洛丽亚)",
+  "［骑士皇女］莉亚 (base=莉亚)",
+  "［骰子射手］尤莉 (base=尤莉)",
+  "［鲨鱼鳍驭手］帕提尔 (base=帕提尔)",
+  "［黄昏的超新星］永远老师《黎明》 (base=永远老师)",
+  "［黑暗秘宝］幸 (base=幸)",
+  "［齐天大圣］空贤 (base=空贤)"
+ ]
+}
