@@ -19,9 +19,10 @@
     <Compile Remove="tools\**\*.cs" />
   </ItemGroup>
 
-  <!-- 编译前把 GamePath 改成你的游戏安装目录(需要游戏本体提供 interop DLL) -->
+  <!-- 编译前把 GamePath 改成你的游戏安装目录(需要游戏本体提供 interop DLL)。
+       本地已有构建脚本时可覆盖:-p:GamePath=C:\Path\To\Twinkle_StarKnightsX -->
   <PropertyGroup>
-    <GamePath>C:\Users\KK\Twinkle_StarKnightsX</GamePath>
+    <GamePath>C:\Path\To\Twinkle_StarKnightsX</GamePath>
     <BepInExPath>$(GamePath)\BepInEx</BepInExPath>
   </PropertyGroup>
 
