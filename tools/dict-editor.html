@@ -82,7 +82,8 @@
   ②在「修改文本」列改译文,相同原文本的所有条目会<b>自动联动</b>,保存后全部原文本立即变成现文本;
   ③游戏内按 <b>F10</b> 生效。未翻译清单可在 <b>C:\...\BepInEx\plugins\font\tsk_nohit.txt</b> 导入,提前填好翻译就<b>不再消耗 API token</b>。
 </div>
-<div class="hint" id="modeHint" style="display:none">⚠ 当前浏览器不支持直接写回文件(File System Access API)。仍可编辑并「导出修改(JSON)」,交给助手写回。</div>
+<div id="errorBox" style="display:none;background:#3a1515;border-bottom:1px solid #ff6b6b;color:#ff9d9d;padding:10px 16px;font-size:14px">⚠ 页面发生错误:<span id="errorMsg"></span></div>
+<div class="hint" id="modeHint" style="display:none">⚠ 当前浏览器不支持直接写回文件(File System Access API)。请改用 <b>Chrome / Edge</b> 打开本页(双击文件即可);或仍可编辑后点「导出修改(JSON)」交给助手写回。</div>
 <table>
   <colgroup><col class="col-key"><col class="col-edit"><col class="col-cur"><col class="col-files"></colgroup>
   <thead><tr><th>原文本</th><th>修改文本(在这里改)</th><th>现文本(自动跟随)</th><th>所在文件</th></tr></thead>
@@ -95,6 +96,13 @@
 
 <script>
 'use strict';
+// 全局错误显示:任何 JS 错误都会在页面顶部显示,方便排查「不能用」的原因
+window.addEventListener?.('error', (ev) => {
+  const box = document.getElementById('errorBox');
+  if (box) box.style.display = 'block';
+  const msg = document.getElementById('errorMsg');
+  if (msg) msg.textContent = String(ev.message || ev.error || '未知错误');
+});
 const $ = (id) => document.getElementById(id);
 const tbody = $('tbody');
 const MAX_ROWS = 800;
