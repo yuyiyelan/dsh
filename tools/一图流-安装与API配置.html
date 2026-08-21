@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:1080px; height:1920px; background:#101318; color:#e8e6e3; font-family:"Microsoft YaHei","PingFang SC",sans-serif; padding:48px 44px; overflow:hidden; }
+  .title { font-size:56px; font-weight:bold; text-align:center; color:#fff; line-height:1.35; }
+  .sub { text-align:center; font-size:30px; color:#9aa3af; margin-top:10px; }
+  .badge { display:inline-block; background:#1e242e; border:2px solid #4f8cff; color:#7fb2ff; border-radius:16px; padding:6px 24px; font-size:30px; margin-top:22px; }
+  .sec { margin-top:52px; }
+  .sec-title { font-size:40px; font-weight:bold; color:#4f8cff; border-left:10px solid #4f8cff; padding-left:18px; line-height:1.2; }
+  .card { background:#1b2029; border:1px solid #2c3340; border-radius:20px; padding:30px 32px; margin-top:24px; }
+  .step { display:flex; gap:24px; align-items:flex-start; }
+  .num { flex:none; width:64px; height:64px; border-radius:50%; background:#4f8cff; color:#fff; font-size:36px; font-weight:bold; display:flex; align-items:center; justify-content:center; margin-top:2px; }
+  .step-body { font-size:31px; line-height:1.6; }
+  .step-body b { color:#fff; }
+  .path { font-size:26px; color:#9aa3af; margin-top:6px; font-family:Consolas,monospace; word-break:break-all; }
+  .tip { font-size:25px; color:#ffb454; margin-top:8px; }
+  pre { background:#0d1117; border:1px solid #2c3340; border-radius:14px; padding:24px 26px; font-size:28px; line-height:1.55; font-family:Consolas,monospace; color:#7ee787; margin-top:24px; white-space:pre-wrap; }
+  .hotkeys { font-size:30px; line-height:1.8; color:#c9d1d9; }
+  .hotkeys b { color:#fff; }
+  .warn { margin-top:44px; font-size:27px; color:#ffb454; text-align:center; }
+  .credit { margin-top:30px; font-size:24px; color:#6e7681; text-align:center; line-height:1.7; }
+</style></head><body>
+  <div class="title">闪亮星骑士 简体中文汉化增强包</div>
+  <div class="sub">基于 TSKHook · 安装 + API 配置(一图流)</div>
+  <div style="text-align:center"><span class="badge">仅需 4 步 + 可选 1 处配置</span></div>
+
+  <div class="sec">
+    <div class="sec-title">0 · 前提(必看)</div>
+    <div class="card">
+      <div class="step">
+        <div class="num">!</div>
+        <div class="step-body">游戏<b>不带任何汉化插件</b>,先去上游装 TSKHook 基础版
+          (自带 BepInEx6 注入 + 繁体插件 + 字库),确认繁体生效后再装本包。
+          <div class="path">github.com/TSKModding/TSKHook</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">1 · 安装(四步)</div>
+    <div class="card">
+      <div class="step"><div class="num">1</div><div class="step-body">下载完整包(约 183MB)并<b>解压</b></div></div>
+      <div class="step" style="margin-top:26px"><div class="num">2</div><div class="step-body">找到文件夹「<b>1-汉化插件</b>」</div></div>
+      <div class="step" style="margin-top:26px"><div class="num">3</div><div class="step-body">把里面的 <b>BepInEx</b> 整体复制到游戏目录
+        <div class="path">C:\Users\你的用户名\Twinkle_StarKnightsX\</div>
+        <div class="tip">提示:覆盖时跳过 config.json(里面有你的设置)</div></div></div>
+      <div class="step" style="margin-top:26px"><div class="num">4</div><div class="step-body">启动游戏 → <b>简体生效</b>
+        <div class="tip">改完词典按 F10 重载,不用重启</div></div></div>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">2 · API 自动补翻(可选)</div>
+    <div class="card">
+      <div class="step"><div class="num">+</div><div class="step-body">记事本打开 <b>BepInEx\plugins\config.json</b>,把 <b>translationApi</b> 改成:</div></div>
+<pre>{
+  "enabled": true,
+  "url": "https://api.deepseek.com/v1/chat/completions",
+  "key": "你自己的密钥",
+  "model": "deepseek-chat"
+}</pre>
+      <div class="tip">支持 DeepSeek / 通义 / Kimi 等 OpenAI 兼容接口 · 密钥别发给别人 · 不想要可跳过</div>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">3 · 快捷键</div>
+    <div class="card hotkeys">
+      <b>F5</b> 暂停 · <b>F6</b> 恢复 · <b>F7</b> 减速 · <b>F8</b> 加速<br>
+      <b>F10</b> 重载词典 · <b>F11</b> 开关汉化 · <b>F12</b> 截图 · <b>Ctrl</b> 跳过剧情
+    </div>
+  </div>
+
+  <div class="warn">⚠ 使用修改插件违反游戏与 DMM 用户协议,可能封号,请用小号测试,风险自负</div>
+  <div class="credit">一切基于 TSKModding/TSKHook(GPL-2.0) · 仅供学习交流,禁止商用</div>
+</body></html>
