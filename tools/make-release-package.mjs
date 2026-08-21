@@ -16,7 +16,8 @@ const d = new Date();
 const stamp = d.toISOString().slice(0, 10).replaceAll('-', '') + '-' +
   String(d.getHours()).padStart(2, '0') + String(d.getMinutes()).padStart(2, '0');
 const STAGE = path.join(ROOT, 'TSKHook-完整包-' + stamp);
-const ZIP = path.join(ROOT, 'TSKHook-zh-Hans-完整包-' + stamp + '.zip');
+// 用纯 ASCII 文件名:GitHub Release 上传中文名会被替换成 '.' 等字符
+const ZIP = path.join(ROOT, 'TSKHook-zh-Hans-v1.0-' + stamp + '.zip');
 
 function zip(srcDir, zipPath) {
   const r = spawnSync('powershell.exe', ['-NoProfile', '-Command',
