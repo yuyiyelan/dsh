@@ -2,7 +2,7 @@
 // 分析现有收集的技能效果文本，构建段级翻译规则
 import fs from 'node:fs';
 
-const log = 'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/LogOutput.log';
+const log = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/LogOutput.log';
 const nohit = fs.readFileSync(log, 'utf8').split(/\r?\n/)
   .filter((l) => l.includes('[NoHit]'))
   .map((l) => l.replace(/^.*\[NoHit\]\s*/, '').trim())

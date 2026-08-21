@@ -81,7 +81,7 @@ for (const t of tests) {
 console.log(`\n全部翻译: ${allOk ? '✅' : '❌'}`);
 
 // 输出所有 NoHit 技能效果翻译
-const log = 'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/LogOutput.log';
+const log = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/LogOutput.log';
 const nohit = fs.readFileSync(log, 'utf8').split(/\r?\n/)
   .filter((l) => l.includes('[NoHit]'))
   .map((l) => l.replace(/^.*\[NoHit\]\s*/, '').trim())

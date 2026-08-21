@@ -115,7 +115,7 @@ const titleMap = {
 };
 
 // 生成碎片条目
-const nohit = fs.readFileSync('C:/Users/KK/Twinkle_StarKnightsX/BepInEx/plugins/font/tsk_nohit.txt', 'utf8').split(/\r?\n/).filter((l) => l.trim() !== '');
+const nohit = fs.readFileSync((process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/plugins/font/tsk_nohit.txt', 'utf8').split(/\r?\n/).filter((l) => l.trim() !== '');
 for (const l of nohit) {
   const m = l.match(/^(.+?)のピース(x\d+)?$/);
   if (m) {

@@ -1,7 +1,7 @@
 // 比对 tsk_nohit.txt 与现有词典，找出仍未翻译的文本
 import fs from 'node:fs';
 
-const nohit = fs.readFileSync('C:/Users/KK/Twinkle_StarKnightsX/BepInEx/plugins/font/tsk_nohit.txt', 'utf8').split(/\r?\n/).filter(l => l.trim());
+const nohit = fs.readFileSync((process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/plugins/font/tsk_nohit.txt', 'utf8').split(/\r?\n/).filter(l => l.trim());
 
 function loadDict(file) {
   const t = fs.readFileSync(file, 'utf8');

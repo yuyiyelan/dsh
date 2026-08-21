@@ -7,7 +7,7 @@ const DIR = 'E:/dsh/TSKHook/tools/xlsx-extract';
 const unified = JSON.parse(fs.readFileSync(`${DIR}/unified_names_v3.json`, 'utf8')).names;
 
 // 游戏目录 names.json
-const SRC = 'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/plugins/translation_zh_Hans/names.json';
+const SRC = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/plugins/translation_zh_Hans/names.json';
 const nj = JSON.parse(fs.readFileSync(SRC, 'utf8'));
 
 // 对 names.json 每个条目: 若日文名在 unified 中, 用 unified 值(已是bwiki名)

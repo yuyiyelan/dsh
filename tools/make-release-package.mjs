@@ -10,7 +10,7 @@ import { spawnSync } from 'node:child_process';
 
 const ROOT = 'E:/dsh';
 const SRC = path.join(ROOT, 'TSKHook');
-const GAME_DICT = 'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/plugins/translation_zh_Hans';
+const GAME_DICT = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/plugins/translation_zh_Hans';
 const REL = path.join(ROOT, 'TSKHook-zh-Hans-发布包');
 const d = new Date();
 const stamp = d.toISOString().slice(0, 10).replaceAll('-', '') + '-' +

@@ -4,8 +4,8 @@
 import fs from 'node:fs';
 
 const files = [
-  'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/interop/Assembly-CSharp.dll',
-  'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/interop/Unity.TextMeshPro.dll',
+  (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/interop/Assembly-CSharp.dll',
+  (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/interop/Unity.TextMeshPro.dll',
 ];
 const combined = files.map((f) => fs.readFileSync(f).toString('latin1')).join('');
 

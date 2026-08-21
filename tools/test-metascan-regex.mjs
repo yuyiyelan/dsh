@@ -1,5 +1,5 @@
 import fs from 'node:fs';
-const p = 'C:/Users/KK/Twinkle_StarKnightsX/twinkle_starknightsX_Data/il2cpp_data/Metadata/global-metadata.dat';
+const p = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/twinkle_starknightsX_Data/il2cpp_data/Metadata/global-metadata.dat';
 if (!fs.existsSync(p)) { console.log('metadata not found'); process.exit(2); }
 const bytes = fs.readFileSync(p);
 const info = fs.statSync(p);

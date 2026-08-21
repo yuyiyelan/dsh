@@ -5,7 +5,7 @@
 // We check for exact "<Type>...get_NameText" patterns in the type's member block.
 import fs from 'node:fs';
 
-const dll = 'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/interop/Assembly-CSharp.dll';
+const dll = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/interop/Assembly-CSharp.dll';
 const buf = fs.readFileSync(dll);
 const text = buf.toString('latin1');
 console.log('scanning', dll, buf.length, 'bytes\n');
@@ -45,7 +45,7 @@ for (const [type, method] of targets) {
 // Also verify the FONT asset loading types
 console.log('\n=== font / TMP types ===');
 for (const t of ['TMP_FontAsset', 'AssetBundle']) {
-  const found = text.includes(t) || fs.readFileSync('C:/Users/KK/Twinkle_StarKnightsX/BepInEx/interop/Unity.TextMeshPro.dll').toString('latin1').includes(t);
+  const found = text.includes(t) || fs.readFileSync((process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/interop/Unity.TextMeshPro.dll').toString('latin1').includes(t);
   console.log(`${found ? 'OK  ' : 'MISS'} ${t}`);
 }
 console.log(allOk ? '\nALL CORE HOOK TARGETS PRESENT ✓' : '\nSOME TARGETS MISSING!');

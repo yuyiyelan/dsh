@@ -5,6 +5,9 @@
 环境:Windows + Node.js 18+(工具);.NET SDK 8(编译插件)。
 注意:工具脚本内的 E:/dsh/TSKHook 等绝对路径是本机开发配置,克隆到别的
 机器后需按需替换(大多数工具头部有路径常量,统一改即可)。
+游戏路径一律通过环境变量 TSK_GAME 提供(不写死在仓库中),例如:
+  set TSK_GAME=C:\Users\<你的用户名>\Twinkle_StarKnightsX
+  node tools/make-release-package.mjs
 
 ======================================================================
 一、目录与文件

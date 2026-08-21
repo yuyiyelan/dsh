@@ -2,7 +2,7 @@
 // 覆盖: 任务描述、交换所、星骑士养成、装备、塔层、GOD RANK 等模式
 import fs from 'node:fs';
 
-const nohit = 'C:/Users/KK/Twinkle_StarKnightsX/BepInEx/plugins/font/tsk_nohit.txt';
+const nohit = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/plugins/font/tsk_nohit.txt';
 const lines = fs.readFileSync(nohit, 'utf8').split(/\r?\n/).filter((l) => l.trim() !== '');
 
 // 已覆盖(词典已有)

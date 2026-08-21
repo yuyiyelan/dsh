@@ -5,7 +5,7 @@ const XDIR = 'E:/dsh/TSKHook/tools/xlsx-extract';
 const tskName = JSON.parse(fs.readFileSync(`${XDIR}/tsk_name.json`, 'utf8'));
 const tskSub = JSON.parse(fs.readFileSync(`${XDIR}/tsk_subname.json`, 'utf8'));
 const unified = JSON.parse(fs.readFileSync(`${XDIR}/unified_names_v3.json`, 'utf8')).names;
-const namesJson = JSON.parse(fs.readFileSync('C:/Users/KK/Twinkle_StarKnightsX/BepInEx/plugins/translation_zh_Hans/names.json', 'utf8'));
+const namesJson = JSON.parse(fs.readFileSync((process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/BepInEx/plugins/translation_zh_Hans/names.json', 'utf8'));
 
 // 简化转换
 const DIR = 'E:/dsh/TSKHook/tools/opencc-data';

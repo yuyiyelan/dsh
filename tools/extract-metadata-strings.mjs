@@ -4,7 +4,7 @@ import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const lz4 = require('E:/dsh/7z-tools/node_modules/lz4js/lz4.js');
 
-const path = 'C:/Users/KK/Twinkle_StarKnightsX/twinkle_starknightsX_Data/il2cpp_data/Metadata/global-metadata.dat';
+const path = (process.env.TSK_GAME || 'C:/Path/To/Twinkle_StarKnightsX') + '/twinkle_starknightsX_Data/il2cpp_data/Metadata/global-metadata.dat';
 const b = fs.readFileSync(path);
 
 const strOffset = b.readUInt32LE(8);
