@@ -45,7 +45,6 @@
 <img width="1080" height="1920" alt="贴吧一图流-安装与API配置" src="https://github.com/user-attachments/assets/1777832a-d689-46c5-87b5-af2ae9e4a76b" />
 
 ---
-<img width="1080" height="1920" alt="贴吧一图流-安装与API配置" src="https://github.com/user-attachments/assets/a3535fb3-1f71-4cae-8252-e443f70c24ee" />
 
 ## ⚙️ 配置(config.json)
 
