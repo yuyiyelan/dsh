@@ -6,6 +6,7 @@
 感谢原作者与社区提供的框架、在线词典与灵感。本仓库在其基础上把汉化从「繁体中文」全面转换为「简体中文」,
 并增加离线词典、统一角色名、自动补翻、字形回退与词典编辑器等增强。许可同样为 **GPL-2.0**,请保留上游署名。
 注：此插件完全由dsh生成并上传无任何人工，有任何疑问请直接去问ai,你问我我也是去问ai，还有记得去给大佬点星标。
+    感谢B站毛玉_团子提供的字体统一和文本修正，比我原来那字体强多了，一定记得下。
 ---
 
 ## ✨ 与上游版的区别
@@ -30,16 +31,21 @@
 > 按其说明安装基础版(自带 BepInEx 6 IL2CPP 注入 + 官方繁体插件 + 字库),
 > 确认游戏里能看到繁体汉化后,再执行下面的覆盖安装。
 
-1. 下载完整发布包,把其中的 `BepInEx` 文件夹**合并**进游戏根目录(如 `C:\Users\<你>\Twinkle_StarKnightsX\`);
+1. 下载完整发布包,把其中的 `BepInEx` 文件夹**合并**进游戏根目录(如 `C:\Users\<你>\Twinkle_StarKnightsX\`);  
+
+2，下载plugins.zip再次进行覆盖进游戏根目录(如 `C:\Users\<你>\Twinkle_StarKnightsX\BepInEx\`)
+
 3. **不要覆盖你原有的 `BepInEx\plugins\config.json`**(里面有你的设置与 API 密钥);
+
 4. 启动游戏,按 **F10** 即可重载词典(改完词典不用重启)。
 
 发布包内容:`TSKHook.dll` + `config.json` + 字体包(`font\`)+ 离线简体词典(`translation_zh_Hans\`)。
 
 完整教程见发布包内 **使用说明.txt**(记事本一键打开)。
+<img width="1080" height="1920" alt="贴吧一图流-安装与API配置" src="https://github.com/user-attachments/assets/1777832a-d689-46c5-87b5-af2ae9e4a76b" />
 
 ---
-<img width="1080" height="1920" alt="贴吧一图流-安装与API配置" src="https://github.com/user-attachments/assets/4f31d691-0bf2-499c-a3a0-443dfa3e2041" />
+<img width="1080" height="1920" alt="贴吧一图流-安装与API配置" src="https://github.com/user-attachments/assets/a3535fb3-1f71-4cae-8252-e443f70c24ee" />
 
 ## ⚙️ 配置(config.json)
 
