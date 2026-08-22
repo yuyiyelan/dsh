@@ -39,6 +39,7 @@
 完整教程见发布包内 **使用说明.txt**(记事本一键打开)。
 
 ---
+<img width="1080" height="1920" alt="贴吧一图流-安装与API配置" src="https://github.com/user-attachments/assets/4f31d691-0bf2-499c-a3a0-443dfa3e2041" />
 
 ## ⚙️ 配置(config.json)
 
